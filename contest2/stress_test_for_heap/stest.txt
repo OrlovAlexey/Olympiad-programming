@@ -1,0 +1,12489 @@
+insert 5481
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1 5409
+decreaseKey 1 8660
+insert 7811
+insert 8358
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 12 6720
+extractMin
+getMin
+insert 3990
+insert 8685
+extractMin
+getMin
+decreaseKey 21 9056
+decreaseKey 1 3922
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 9342
+decreaseKey 31 776
+extractMin
+getMin
+insert 5955
+getMin
+getMin
+getMin
+insert 1559
+getMin
+insert 2654
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 12 817
+extractMin
+getMin
+insert 616
+extractMin
+getMin
+insert 3737
+insert 278
+decreaseKey 51 3405
+extractMin
+getMin
+decreaseKey 11 9394
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 52 5189
+insert 1104
+decreaseKey 31 8510
+extractMin
+getMin
+insert 5976
+insert 1519
+insert 9781
+getMin
+extractMin
+getMin
+insert 3392
+insert 8597
+insert 9539
+insert 5858
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 31 7738
+insert 3821
+insert 959
+extractMin
+getMin
+insert 522
+extractMin
+getMin
+insert 436
+insert 6084
+insert 9640
+insert 1470
+extractMin
+getMin
+getMin
+decreaseKey 82 4485
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 1479
+decreaseKey 76 5997
+insert 2534
+extractMin
+getMin
+decreaseKey 76 7605
+insert 9625
+insert 6115
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 97 1160
+decreaseKey 82 4931
+extractMin
+getMin
+insert 546
+getMin
+insert 9263
+decreaseKey 34 6373
+insert 6648
+getMin
+insert 4271
+getMin
+decreaseKey 1 6935
+getMin
+getMin
+insert 2929
+insert 3353
+insert 1923
+getMin
+extractMin
+getMin
+decreaseKey 31 4128
+extractMin
+getMin
+getMin
+insert 7722
+decreaseKey 34 4164
+getMin
+getMin
+getMin
+insert 9081
+getMin
+insert 1233
+decreaseKey 131 8006
+extractMin
+getMin
+insert 6505
+insert 5126
+decreaseKey 68 9584
+insert 7176
+decreaseKey 52 3537
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 49 7352
+getMin
+extractMin
+getMin
+decreaseKey 69 422
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 71 7929
+getMin
+decreaseKey 63 6455
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 135 8501
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 11 5022
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 97 8212
+decreaseKey 117 1162
+getMin
+insert 1269
+insert 1184
+decreaseKey 84 8244
+insert 1525
+extractMin
+getMin
+insert 5042
+extractMin
+getMin
+insert 6822
+extractMin
+getMin
+extractMin
+getMin
+insert 4888
+extractMin
+getMin
+decreaseKey 82 7623
+decreaseKey 65 7546
+insert 8682
+getMin
+extractMin
+getMin
+decreaseKey 38 7287
+decreaseKey 170 8629
+insert 516
+getMin
+getMin
+decreaseKey 135 7249
+decreaseKey 63 7915
+extractMin
+getMin
+decreaseKey 11 8972
+extractMin
+getMin
+decreaseKey 169 6197
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 8757
+insert 5173
+decreaseKey 129 4899
+insert 3361
+insert 2769
+insert 4055
+insert 9330
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 111 7394
+insert 1697
+decreaseKey 205 6026
+getMin
+getMin
+insert 5421
+decreaseKey 82 8095
+extractMin
+getMin
+insert 4854
+getMin
+insert 3407
+extractMin
+getMin
+getMin
+decreaseKey 129 791
+insert 4066
+decreaseKey 51 177
+decreaseKey 71 8283
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 34 9223
+decreaseKey 111 9333
+getMin
+insert 3924
+decreaseKey 117 5597
+extractMin
+getMin
+insert 1487
+insert 9595
+extractMin
+getMin
+getMin
+insert 7114
+insert 4192
+insert 7184
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 5119
+decreaseKey 51 9528
+insert 4073
+getMin
+insert 471
+decreaseKey 111 619
+insert 8762
+getMin
+extractMin
+getMin
+insert 7988
+decreaseKey 236 1692
+decreaseKey 68 374
+getMin
+insert 6409
+decreaseKey 245 7127
+decreaseKey 79 2079
+extractMin
+getMin
+decreaseKey 117 4318
+extractMin
+getMin
+insert 7676
+decreaseKey 262 1260
+extractMin
+getMin
+insert 1429
+extractMin
+getMin
+insert 81
+decreaseKey 135 3919
+decreaseKey 169 3586
+getMin
+getMin
+getMin
+getMin
+insert 7806
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 2798
+extractMin
+getMin
+insert 3235
+decreaseKey 249 6762
+extractMin
+getMin
+insert 2132
+extractMin
+getMin
+insert 4761
+insert 3305
+insert 5705
+insert 1889
+getMin
+insert 5563
+getMin
+decreaseKey 243 7234
+insert 4610
+insert 2116
+decreaseKey 69 1858
+decreaseKey 202 4563
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7274
+insert 5052
+getMin
+insert 1777
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 1765
+insert 6841
+decreaseKey 243 5576
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 4468
+extractMin
+getMin
+decreaseKey 169 2367
+extractMin
+getMin
+insert 5110
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 226 675
+decreaseKey 244 1247
+extractMin
+getMin
+insert 3598
+getMin
+decreaseKey 244 5794
+insert 6893
+insert 4491
+decreaseKey 240 2645
+insert 229
+insert 3487
+getMin
+insert 7526
+getMin
+decreaseKey 343 6975
+getMin
+decreaseKey 116 1250
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 240 5275
+decreaseKey 107 646
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 334 9472
+insert 3808
+decreaseKey 174 9038
+insert 8408
+getMin
+decreaseKey 134 6467
+getMin
+decreaseKey 295 2865
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 3046
+insert 2617
+decreaseKey 174 5114
+insert 6496
+getMin
+extractMin
+getMin
+decreaseKey 60 6444
+decreaseKey 64 5755
+getMin
+decreaseKey 183 356
+extractMin
+getMin
+insert 9676
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 5403
+extractMin
+getMin
+insert 8477
+decreaseKey 273 1092
+decreaseKey 135 8591
+insert 447
+decreaseKey 293 4679
+extractMin
+getMin
+decreaseKey 174 7239
+insert 313
+insert 5880
+extractMin
+getMin
+decreaseKey 389 2185
+insert 4909
+insert 1223
+extractMin
+getMin
+getMin
+insert 626
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 360 7302
+extractMin
+getMin
+getMin
+decreaseKey 295 8154
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 208 7990
+insert 7670
+decreaseKey 31 4143
+decreaseKey 293 4548
+insert 2407
+extractMin
+getMin
+getMin
+insert 4067
+getMin
+decreaseKey 131 7231
+insert 4660
+decreaseKey 176 7738
+decreaseKey 273 8879
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 6448
+decreaseKey 372 8146
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 51 3312
+getMin
+decreaseKey 40 6991
+insert 2401
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 371 1722
+extractMin
+getMin
+getMin
+insert 4767
+extractMin
+getMin
+decreaseKey 76 7556
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 309
+extractMin
+getMin
+decreaseKey 374 4478
+decreaseKey 416 9679
+extractMin
+getMin
+decreaseKey 188 9586
+extractMin
+getMin
+extractMin
+getMin
+insert 6532
+insert 5436
+insert 3426
+getMin
+insert 9583
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 92 5640
+getMin
+getMin
+extractMin
+getMin
+insert 8481
+insert 2841
+getMin
+getMin
+getMin
+decreaseKey 249 7992
+insert 4356
+decreaseKey 222 6883
+getMin
+getMin
+decreaseKey 109 5188
+insert 8932
+decreaseKey 76 8467
+insert 2213
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 280 4040
+insert 5878
+getMin
+extractMin
+getMin
+insert 2346
+insert 1266
+decreaseKey 308 8886
+decreaseKey 92 7724
+extractMin
+getMin
+getMin
+insert 4025
+extractMin
+getMin
+getMin
+insert 6539
+getMin
+decreaseKey 253 8124
+getMin
+decreaseKey 183 5565
+insert 6649
+decreaseKey 466 7642
+insert 8849
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 82 5525
+decreaseKey 290 3896
+decreaseKey 389 1875
+getMin
+decreaseKey 400 3969
+insert 2837
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 290 9222
+decreaseKey 372 8693
+insert 4449
+getMin
+insert 8755
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 425 419
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 7750
+decreaseKey 262 5765
+getMin
+insert 3777
+extractMin
+getMin
+decreaseKey 416 4823
+insert 9722
+extractMin
+getMin
+decreaseKey 81 2484
+decreaseKey 392 8680
+extractMin
+getMin
+insert 5150
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4275
+getMin
+decreaseKey 208 8787
+getMin
+insert 6345
+extractMin
+getMin
+getMin
+decreaseKey 134 1790
+decreaseKey 416 3755
+decreaseKey 374 4125
+extractMin
+getMin
+insert 7761
+decreaseKey 292 999
+decreaseKey 49 1309
+insert 4418
+insert 9861
+extractMin
+getMin
+getMin
+insert 7057
+insert 9929
+insert 6608
+extractMin
+getMin
+getMin
+decreaseKey 432 1143
+getMin
+extractMin
+getMin
+getMin
+insert 2673
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 188 6178
+extractMin
+getMin
+insert 8467
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 8890
+extractMin
+getMin
+insert 4266
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 63 400
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 543 9607
+getMin
+insert 2663
+decreaseKey 371 3779
+getMin
+decreaseKey 222 8550
+extractMin
+getMin
+insert 1749
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 2501
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 512 2830
+getMin
+decreaseKey 449 5370
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 92 840
+getMin
+decreaseKey 465 5652
+extractMin
+getMin
+insert 6975
+insert 1116
+decreaseKey 300 6937
+decreaseKey 79 7109
+extractMin
+getMin
+getMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 358 1915
+insert 4863
+insert 4383
+insert 4055
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 271 4155
+extractMin
+getMin
+insert 4975
+insert 2101
+decreaseKey 179 7641
+insert 8398
+insert 1754
+getMin
+insert 8315
+decreaseKey 245 2642
+decreaseKey 287 3127
+decreaseKey 543 22
+insert 3475
+extractMin
+getMin
+extractMin
+getMin
+insert 51
+extractMin
+getMin
+decreaseKey 651 4121
+extractMin
+getMin
+decreaseKey 287 5505
+extractMin
+getMin
+decreaseKey 593 3550
+getMin
+insert 7631
+getMin
+extractMin
+getMin
+decreaseKey 294 5722
+insert 5531
+insert 372
+getMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 5127
+extractMin
+getMin
+extractMin
+getMin
+insert 6094
+getMin
+decreaseKey 220 8794
+decreaseKey 693 5969
+getMin
+decreaseKey 249 8169
+insert 5107
+extractMin
+getMin
+extractMin
+getMin
+insert 953
+insert 4028
+extractMin
+getMin
+decreaseKey 310 6215
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 401 9575
+extractMin
+getMin
+decreaseKey 315 2812
+decreaseKey 206 7548
+getMin
+extractMin
+getMin
+decreaseKey 243 6549
+extractMin
+getMin
+insert 3289
+insert 7886
+insert 2533
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 206 5332
+decreaseKey 129 854
+decreaseKey 301 853
+decreaseKey 255 3733
+insert 2282
+insert 4270
+decreaseKey 203 2688
+decreaseKey 118 673
+getMin
+extractMin
+getMin
+decreaseKey 706 3883
+insert 7532
+insert 6424
+extractMin
+getMin
+decreaseKey 111 8204
+extractMin
+getMin
+decreaseKey 79 748
+decreaseKey 685 5816
+getMin
+getMin
+getMin
+insert 5493
+decreaseKey 176 2928
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 52 4383
+insert 6416
+decreaseKey 129 7032
+extractMin
+getMin
+extractMin
+getMin
+insert 2647
+decreaseKey 389 9225
+extractMin
+getMin
+getMin
+insert 8126
+decreaseKey 488 9182
+decreaseKey 81 8487
+insert 5097
+getMin
+insert 9417
+getMin
+decreaseKey 135 9105
+insert 9283
+insert 1165
+getMin
+insert 6747
+insert 5666
+insert 7044
+decreaseKey 531 4780
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 70 4040
+insert 46
+insert 2008
+extractMin
+getMin
+decreaseKey 564 9381
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 770 5020
+decreaseKey 432 5414
+getMin
+decreaseKey 81 5423
+insert 1204
+decreaseKey 31 6308
+getMin
+decreaseKey 135 8696
+extractMin
+getMin
+decreaseKey 258 8160
+getMin
+extractMin
+getMin
+insert 8017
+extractMin
+getMin
+decreaseKey 772 9418
+getMin
+insert 9371
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 706 6769
+decreaseKey 397 9936
+decreaseKey 766 5720
+insert 7149
+getMin
+insert 3759
+insert 128
+extractMin
+getMin
+getMin
+insert 3500
+insert 3274
+decreaseKey 240 1205
+decreaseKey 60 6727
+decreaseKey 213 8304
+extractMin
+getMin
+decreaseKey 696 9334
+insert 5902
+decreaseKey 124 4720
+insert 8861
+getMin
+extractMin
+getMin
+insert 6797
+insert 7324
+insert 3174
+decreaseKey 397 1480
+insert 7037
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 3524
+decreaseKey 203 8716
+insert 7186
+decreaseKey 696 6946
+insert 2005
+extractMin
+getMin
+decreaseKey 203 331
+getMin
+insert 8336
+decreaseKey 449 3313
+decreaseKey 97 6380
+decreaseKey 63 4634
+getMin
+insert 958
+insert 3144
+getMin
+getMin
+insert 3162
+decreaseKey 681 5798
+insert 5170
+insert 5209
+insert 586
+decreaseKey 338 5398
+decreaseKey 94 1719
+insert 4259
+extractMin
+getMin
+extractMin
+getMin
+insert 6677
+getMin
+decreaseKey 389 4134
+getMin
+extractMin
+getMin
+decreaseKey 79 1859
+decreaseKey 63 9120
+decreaseKey 816 3078
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 774 8186
+insert 6975
+extractMin
+getMin
+insert 4754
+extractMin
+getMin
+decreaseKey 83 2713
+decreaseKey 781 9240
+insert 2270
+decreaseKey 60 6043
+insert 5840
+extractMin
+getMin
+getMin
+decreaseKey 816 4128
+getMin
+decreaseKey 803 2732
+extractMin
+getMin
+decreaseKey 498 5756
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 322 3240
+extractMin
+getMin
+extractMin
+getMin
+insert 7696
+extractMin
+getMin
+extractMin
+getMin
+insert 734
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 8784
+extractMin
+getMin
+decreaseKey 34 5150
+getMin
+decreaseKey 425 8600
+decreaseKey 422 8568
+insert 259
+decreaseKey 105 8143
+insert 705
+decreaseKey 300 8656
+extractMin
+getMin
+insert 8950
+getMin
+insert 5842
+insert 1972
+insert 5971
+extractMin
+getMin
+decreaseKey 803 5451
+getMin
+insert 4638
+getMin
+decreaseKey 498 6049
+decreaseKey 287 2214
+extractMin
+getMin
+decreaseKey 134 7192
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 546 3021
+decreaseKey 297 7136
+extractMin
+getMin
+getMin
+insert 5462
+getMin
+decreaseKey 663 5646
+extractMin
+getMin
+decreaseKey 593 7404
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 432 5592
+insert 8378
+insert 4820
+getMin
+extractMin
+getMin
+getMin
+insert 2366
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1302
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 911 4543
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 883 5061
+getMin
+extractMin
+getMin
+decreaseKey 271 6857
+insert 8962
+insert 7127
+extractMin
+getMin
+decreaseKey 134 9795
+insert 7440
+decreaseKey 220 2409
+insert 2032
+decreaseKey 705 6610
+decreaseKey 109 8729
+insert 6160
+insert 2487
+getMin
+decreaseKey 253 9295
+getMin
+decreaseKey 650 7730
+getMin
+decreaseKey 593 9488
+extractMin
+getMin
+insert 5525
+getMin
+getMin
+insert 9361
+insert 6345
+decreaseKey 739 4980
+decreaseKey 753 3669
+getMin
+getMin
+decreaseKey 389 4183
+insert 5937
+decreaseKey 546 7043
+getMin
+getMin
+decreaseKey 207 5703
+getMin
+extractMin
+getMin
+decreaseKey 183 6747
+decreaseKey 97 1422
+extractMin
+getMin
+decreaseKey 134 2662
+insert 1588
+extractMin
+getMin
+getMin
+insert 3594
+extractMin
+getMin
+insert 6202
+extractMin
+getMin
+insert 834
+insert 9522
+insert 2555
+insert 2709
+getMin
+extractMin
+getMin
+insert 6651
+decreaseKey 930 925
+extractMin
+getMin
+getMin
+insert 5684
+getMin
+decreaseKey 829 8778
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1037 765
+decreaseKey 639 6615
+extractMin
+getMin
+insert 128
+insert 7790
+extractMin
+getMin
+getMin
+decreaseKey 40 5772
+insert 7264
+insert 4650
+extractMin
+getMin
+insert 5610
+getMin
+extractMin
+getMin
+insert 3469
+getMin
+decreaseKey 531 1921
+insert 6110
+getMin
+extractMin
+getMin
+decreaseKey 575 5711
+insert 3111
+decreaseKey 82 8767
+decreaseKey 220 4716
+insert 7277
+extractMin
+getMin
+decreaseKey 989 3626
+decreaseKey 1060 2512
+extractMin
+getMin
+getMin
+insert 7967
+decreaseKey 543 9717
+getMin
+getMin
+insert 7369
+insert 4810
+insert 4538
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 5615
+decreaseKey 681 8932
+getMin
+decreaseKey 477 6840
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 4328
+getMin
+getMin
+getMin
+getMin
+getMin
+insert 7486
+extractMin
+getMin
+decreaseKey 598 4520
+getMin
+insert 2552
+getMin
+getMin
+decreaseKey 477 9769
+insert 8406
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1032 7078
+decreaseKey 374 9644
+decreaseKey 118 7633
+insert 7449
+insert 3610
+getMin
+decreaseKey 83 3345
+insert 384
+decreaseKey 1029 5335
+decreaseKey 179 2698
+decreaseKey 994 7855
+decreaseKey 63 8375
+getMin
+getMin
+insert 3189
+extractMin
+getMin
+insert 2960
+getMin
+decreaseKey 419 7193
+getMin
+decreaseKey 995 8237
+decreaseKey 738 3998
+getMin
+insert 6065
+extractMin
+getMin
+extractMin
+getMin
+insert 8896
+extractMin
+getMin
+decreaseKey 498 1794
+insert 9277
+insert 6563
+decreaseKey 372 258
+decreaseKey 295 9394
+decreaseKey 226 8158
+insert 4644
+insert 931
+extractMin
+getMin
+getMin
+decreaseKey 773 9811
+insert 3485
+extractMin
+getMin
+getMin
+decreaseKey 469 9160
+insert 4070
+getMin
+extractMin
+getMin
+insert 9458
+getMin
+getMin
+insert 6112
+extractMin
+getMin
+insert 7255
+insert 7779
+decreaseKey 861 9616
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1055 2622
+decreaseKey 832 9345
+getMin
+extractMin
+getMin
+decreaseKey 791 7903
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 382 2681
+decreaseKey 620 8619
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1156 8986
+extractMin
+getMin
+decreaseKey 855 7736
+decreaseKey 660 8758
+insert 6298
+insert 861
+decreaseKey 554 728
+decreaseKey 1013 6959
+insert 7972
+extractMin
+getMin
+decreaseKey 334 4314
+getMin
+insert 3417
+getMin
+extractMin
+getMin
+decreaseKey 1081 1500
+decreaseKey 371 8696
+extractMin
+getMin
+extractMin
+getMin
+insert 9222
+insert 2759
+insert 8513
+getMin
+insert 3719
+insert 308
+getMin
+getMin
+decreaseKey 989 5925
+extractMin
+getMin
+insert 9789
+getMin
+decreaseKey 865 7862
+insert 3588
+getMin
+extractMin
+getMin
+getMin
+insert 2550
+extractMin
+getMin
+extractMin
+getMin
+insert 9232
+extractMin
+getMin
+decreaseKey 1227 5240
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 6925
+decreaseKey 930 6874
+insert 9736
+decreaseKey 1060 1572
+extractMin
+getMin
+insert 6473
+decreaseKey 1121 4748
+getMin
+insert 7858
+extractMin
+getMin
+decreaseKey 1013 7643
+extractMin
+getMin
+extractMin
+getMin
+insert 5210
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 9976
+extractMin
+getMin
+decreaseKey 310 7887
+extractMin
+getMin
+decreaseKey 358 9171
+decreaseKey 52 9724
+getMin
+getMin
+decreaseKey 579 1183
+insert 3937
+insert 4230
+extractMin
+getMin
+getMin
+decreaseKey 84 3995
+decreaseKey 1098 5367
+decreaseKey 825 4191
+extractMin
+getMin
+getMin
+decreaseKey 1192 3331
+getMin
+decreaseKey 889 6571
+decreaseKey 273 4888
+getMin
+getMin
+insert 7547
+insert 3275
+decreaseKey 1055 5152
+insert 3550
+extractMin
+getMin
+insert 2922
+insert 2223
+insert 2206
+decreaseKey 1168 535
+insert 5561
+getMin
+extractMin
+getMin
+decreaseKey 134 5578
+insert 7736
+getMin
+getMin
+decreaseKey 963 2625
+insert 6152
+decreaseKey 280 5830
+extractMin
+getMin
+decreaseKey 666 3775
+extractMin
+getMin
+getMin
+getMin
+getMin
+insert 8216
+extractMin
+getMin
+insert 1895
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 63 7650
+insert 4831
+decreaseKey 308 4190
+getMin
+insert 2591
+extractMin
+getMin
+insert 7408
+extractMin
+getMin
+insert 3001
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 422 4307
+getMin
+decreaseKey 81 8613
+insert 6445
+insert 6265
+insert 1722
+insert 5012
+decreaseKey 904 7014
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 8994
+insert 4956
+getMin
+insert 7638
+decreaseKey 911 2809
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 670
+extractMin
+getMin
+decreaseKey 967 3419
+decreaseKey 860 4537
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 705 243
+getMin
+insert 3692
+decreaseKey 1 596
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 7206
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7808
+decreaseKey 1075 3957
+decreaseKey 564 8470
+getMin
+extractMin
+getMin
+decreaseKey 1294 5105
+extractMin
+getMin
+insert 8208
+insert 8563
+extractMin
+getMin
+insert 2685
+insert 6228
+insert 1813
+extractMin
+getMin
+insert 9503
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 2636
+extractMin
+getMin
+getMin
+getMin
+getMin
+insert 8732
+insert 4308
+getMin
+decreaseKey 967 5509
+insert 6718
+decreaseKey 991 6416
+getMin
+decreaseKey 868 9182
+decreaseKey 465 6316
+getMin
+getMin
+getMin
+decreaseKey 31 8992
+extractMin
+getMin
+getMin
+getMin
+insert 1232
+extractMin
+getMin
+decreaseKey 868 9158
+decreaseKey 989 8498
+insert 8590
+insert 5695
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 861 9509
+getMin
+decreaseKey 131 7949
+decreaseKey 841 2423
+getMin
+insert 3242
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 788
+extractMin
+getMin
+extractMin
+getMin
+insert 6601
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 469 6518
+decreaseKey 651 8957
+decreaseKey 524 8640
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 904 8129
+getMin
+getMin
+insert 4750
+decreaseKey 1281 5646
+insert 3868
+insert 6053
+insert 7574
+extractMin
+getMin
+getMin
+insert 2720
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 976
+insert 7101
+decreaseKey 1029 2652
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 6249
+decreaseKey 769 9767
+getMin
+getMin
+decreaseKey 889 8429
+decreaseKey 205 9975
+getMin
+getMin
+getMin
+getMin
+insert 988
+extractMin
+getMin
+insert 1793
+decreaseKey 1363 3679
+extractMin
+getMin
+decreaseKey 65 9795
+decreaseKey 1431 3534
+insert 275
+extractMin
+getMin
+getMin
+insert 4896
+insert 4415
+getMin
+insert 9413
+decreaseKey 1447 6108
+insert 180
+insert 4914
+insert 1917
+extractMin
+getMin
+insert 1557
+insert 6504
+decreaseKey 63 2886
+getMin
+insert 997
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 6543
+insert 9726
+getMin
+getMin
+insert 4947
+getMin
+insert 3675
+extractMin
+getMin
+getMin
+decreaseKey 301 7524
+insert 335
+insert 7081
+insert 5886
+extractMin
+getMin
+insert 2577
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 5595
+getMin
+extractMin
+getMin
+insert 6794
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1212 1058
+insert 1278
+decreaseKey 1027 1925
+insert 1017
+extractMin
+getMin
+decreaseKey 1476 4746
+extractMin
+getMin
+decreaseKey 706 9776
+extractMin
+getMin
+getMin
+insert 4100
+getMin
+decreaseKey 739 445
+extractMin
+getMin
+decreaseKey 285 8872
+insert 9818
+decreaseKey 1319 603
+decreaseKey 12 1161
+getMin
+decreaseKey 832 7462
+insert 3172
+extractMin
+getMin
+insert 1280
+getMin
+insert 3814
+extractMin
+getMin
+decreaseKey 315 8627
+getMin
+insert 1856
+insert 8139
+decreaseKey 543 2146
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 4035
+getMin
+decreaseKey 967 499
+decreaseKey 179 7427
+getMin
+decreaseKey 799 5263
+extractMin
+getMin
+getMin
+decreaseKey 1081 8650
+getMin
+insert 7052
+decreaseKey 1493 2533
+decreaseKey 1319 1679
+insert 3070
+getMin
+insert 4213
+extractMin
+getMin
+getMin
+insert 9745
+extractMin
+getMin
+getMin
+insert 7842
+insert 1662
+decreaseKey 360 681
+getMin
+getMin
+decreaseKey 1387 6964
+insert 6013
+decreaseKey 271 1564
+insert 9229
+insert 5354
+decreaseKey 308 6846
+decreaseKey 202 9806
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 22 5072
+decreaseKey 995 28
+decreaseKey 1556 7071
+getMin
+extractMin
+getMin
+insert 5762
+decreaseKey 1032 7160
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 280 4874
+decreaseKey 1494 3306
+decreaseKey 887 5434
+decreaseKey 858 1456
+decreaseKey 314 6353
+getMin
+insert 6774
+decreaseKey 1501 6268
+getMin
+insert 9267
+insert 531
+decreaseKey 1593 1810
+decreaseKey 301 40
+extractMin
+getMin
+getMin
+insert 6804
+getMin
+insert 9570
+decreaseKey 1377 7591
+decreaseKey 1156 4532
+getMin
+extractMin
+getMin
+decreaseKey 791 337
+extractMin
+getMin
+decreaseKey 203 3568
+insert 8807
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 926 414
+getMin
+decreaseKey 21 4806
+getMin
+extractMin
+getMin
+decreaseKey 1431 3521
+getMin
+insert 8352
+extractMin
+getMin
+decreaseKey 1169 6032
+getMin
+insert 6593
+extractMin
+getMin
+decreaseKey 245 1946
+decreaseKey 65 8932
+extractMin
+getMin
+decreaseKey 1651 2558
+insert 8065
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 3342
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 9151
+insert 6886
+decreaseKey 1267 2242
+getMin
+insert 9798
+insert 4778
+insert 9670
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1487 4646
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 4480
+insert 9626
+extractMin
+getMin
+insert 3678
+getMin
+extractMin
+getMin
+insert 9334
+getMin
+insert 3798
+getMin
+getMin
+decreaseKey 593 9709
+decreaseKey 52 5465
+decreaseKey 841 7197
+getMin
+insert 5116
+insert 1894
+getMin
+decreaseKey 389 1584
+extractMin
+getMin
+getMin
+decreaseKey 169 2115
+insert 6616
+insert 6700
+decreaseKey 64 6131
+getMin
+insert 20
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 11 7080
+decreaseKey 374 1840
+extractMin
+getMin
+decreaseKey 1550 2075
+extractMin
+getMin
+insert 5310
+decreaseKey 660 9229
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1538 6290
+decreaseKey 387 8192
+getMin
+extractMin
+getMin
+decreaseKey 97 3204
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 467 6809
+extractMin
+getMin
+decreaseKey 1251 6405
+extractMin
+getMin
+getMin
+decreaseKey 109 6454
+insert 785
+insert 6385
+getMin
+decreaseKey 1281 4441
+extractMin
+getMin
+extractMin
+getMin
+insert 3716
+extractMin
+getMin
+getMin
+decreaseKey 1697 860
+insert 2922
+decreaseKey 1054 8050
+insert 5839
+insert 2723
+extractMin
+getMin
+decreaseKey 843 1624
+getMin
+decreaseKey 507 1374
+getMin
+decreaseKey 829 4911
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 310 6862
+getMin
+getMin
+insert 9695
+insert 5527
+insert 9564
+insert 9176
+decreaseKey 1152 9308
+getMin
+getMin
+insert 2068
+getMin
+insert 4097
+decreaseKey 791 9063
+getMin
+insert 9472
+insert 6531
+insert 9862
+extractMin
+getMin
+getMin
+decreaseKey 1456 9034
+decreaseKey 1507 6177
+extractMin
+getMin
+decreaseKey 1548 367
+decreaseKey 773 2720
+extractMin
+getMin
+decreaseKey 638 6351
+decreaseKey 1443 705
+decreaseKey 865 940
+getMin
+getMin
+getMin
+decreaseKey 244 4052
+decreaseKey 1681 1821
+getMin
+extractMin
+getMin
+insert 7184
+insert 227
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 343 1551
+insert 8697
+extractMin
+getMin
+getMin
+decreaseKey 273 8578
+decreaseKey 60 2983
+insert 7753
+getMin
+insert 9712
+getMin
+insert 6670
+insert 9809
+decreaseKey 670 7905
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 242
+decreaseKey 467 8872
+extractMin
+getMin
+getMin
+insert 4309
+decreaseKey 1358 7674
+insert 4064
+insert 6855
+extractMin
+getMin
+getMin
+insert 4659
+getMin
+insert 6547
+insert 1696
+extractMin
+getMin
+insert 5540
+insert 2100
+decreaseKey 1029 3854
+decreaseKey 1238 1766
+getMin
+getMin
+decreaseKey 1169 8960
+decreaseKey 1054 648
+extractMin
+getMin
+insert 3090
+decreaseKey 38 9094
+decreaseKey 396 7468
+getMin
+decreaseKey 1308 7266
+decreaseKey 1793 866
+extractMin
+getMin
+getMin
+decreaseKey 1704 4383
+decreaseKey 1003 7382
+decreaseKey 1484 9130
+insert 4264
+getMin
+extractMin
+getMin
+decreaseKey 397 3715
+decreaseKey 661 2804
+decreaseKey 1668 2242
+getMin
+insert 9479
+extractMin
+getMin
+decreaseKey 1497 2710
+insert 8368
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7812
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 295 4287
+getMin
+decreaseKey 1704 7669
+getMin
+decreaseKey 922 7323
+extractMin
+getMin
+insert 3791
+insert 1702
+decreaseKey 1207 7333
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 2764
+insert 8390
+extractMin
+getMin
+insert 4701
+getMin
+getMin
+insert 4729
+decreaseKey 1319 5090
+extractMin
+getMin
+decreaseKey 202 3588
+insert 8237
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 8276
+getMin
+insert 3984
+insert 3399
+insert 4181
+insert 8961
+getMin
+getMin
+insert 8861
+extractMin
+getMin
+insert 1842
+extractMin
+getMin
+decreaseKey 524 6189
+decreaseKey 883 23
+insert 5801
+extractMin
+getMin
+insert 1473
+insert 2425
+decreaseKey 1443 5619
+decreaseKey 925 1256
+insert 4000
+insert 2942
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1284 861
+extractMin
+getMin
+insert 5827
+decreaseKey 308 8136
+extractMin
+getMin
+insert 6636
+insert 9458
+insert 4790
+extractMin
+getMin
+insert 2689
+decreaseKey 774 4160
+insert 6572
+extractMin
+getMin
+insert 7890
+insert 6732
+insert 703
+getMin
+insert 1210
+extractMin
+getMin
+insert 1156
+decreaseKey 79 5964
+extractMin
+getMin
+getMin
+decreaseKey 1703 6175
+decreaseKey 1667 1770
+insert 7399
+decreaseKey 579 1046
+insert 1633
+getMin
+decreaseKey 1824 1102
+insert 1604
+getMin
+insert 8951
+insert 5881
+getMin
+insert 1808
+insert 8644
+getMin
+extractMin
+getMin
+decreaseKey 781 2849
+insert 7072
+decreaseKey 1615 9254
+insert 8272
+getMin
+decreaseKey 1081 7419
+insert 8405
+decreaseKey 1474 232
+getMin
+extractMin
+getMin
+decreaseKey 1529 215
+insert 2046
+insert 9880
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 262 5766
+extractMin
+getMin
+decreaseKey 587 271
+getMin
+extractMin
+getMin
+getMin
+insert 5960
+insert 3044
+decreaseKey 681 1341
+insert 4079
+decreaseKey 63 3841
+getMin
+decreaseKey 958 5880
+insert 5659
+insert 9513
+decreaseKey 1820 6138
+extractMin
+getMin
+insert 3923
+getMin
+insert 3315
+insert 76
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 404 6942
+decreaseKey 70 2599
+insert 8644
+insert 9478
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1378 9329
+insert 5577
+getMin
+getMin
+getMin
+insert 3442
+extractMin
+getMin
+decreaseKey 1657 862
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1331 4537
+extractMin
+getMin
+decreaseKey 1746 9276
+decreaseKey 1246 5563
+insert 2315
+getMin
+getMin
+extractMin
+getMin
+insert 5885
+extractMin
+getMin
+insert 1898
+insert 1086
+insert 5807
+extractMin
+getMin
+decreaseKey 531 9
+getMin
+getMin
+insert 9068
+extractMin
+getMin
+getMin
+insert 7011
+decreaseKey 1443 5976
+decreaseKey 1667 7699
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1907 4604
+insert 7613
+decreaseKey 773 8104
+insert 3690
+extractMin
+getMin
+getMin
+decreaseKey 1593 8276
+decreaseKey 1505 3657
+extractMin
+getMin
+insert 2113
+insert 8516
+extractMin
+getMin
+insert 4261
+decreaseKey 174 2813
+getMin
+getMin
+insert 2983
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1060 3222
+insert 3659
+insert 4173
+decreaseKey 1027 7558
+decreaseKey 994 228
+insert 7753
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 9188
+decreaseKey 1227 978
+decreaseKey 280 8063
+insert 1195
+getMin
+getMin
+getMin
+getMin
+insert 2653
+getMin
+extractMin
+getMin
+insert 4085
+decreaseKey 598 4388
+decreaseKey 2036 4647
+insert 7820
+decreaseKey 1619 2828
+extractMin
+getMin
+getMin
+getMin
+insert 26
+insert 5012
+decreaseKey 2056 7951
+decreaseKey 1027 4053
+getMin
+decreaseKey 1151 8774
+getMin
+decreaseKey 1013 8118
+getMin
+decreaseKey 183 1807
+extractMin
+getMin
+getMin
+getMin
+insert 906
+getMin
+decreaseKey 1065 9668
+insert 9011
+getMin
+extractMin
+getMin
+insert 9692
+insert 7279
+insert 6038
+insert 1032
+decreaseKey 258 6758
+extractMin
+getMin
+getMin
+decreaseKey 1041 6256
+getMin
+getMin
+getMin
+decreaseKey 1246 7434
+decreaseKey 38 2735
+decreaseKey 1489 4354
+getMin
+decreaseKey 1668 1632
+extractMin
+getMin
+decreaseKey 98 224
+extractMin
+getMin
+extractMin
+getMin
+insert 9059
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 107
+extractMin
+getMin
+getMin
+decreaseKey 1762 4009
+extractMin
+getMin
+decreaseKey 2039 490
+decreaseKey 575 1652
+getMin
+decreaseKey 1 1724
+insert 5382
+decreaseKey 1681 8289
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 377
+insert 9929
+getMin
+insert 9096
+getMin
+insert 6672
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 467 4031
+insert 1022
+getMin
+getMin
+decreaseKey 685 5701
+insert 9252
+insert 4936
+extractMin
+getMin
+insert 5390
+insert 6270
+getMin
+decreaseKey 1081 895
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 297 9760
+decreaseKey 731 7553
+decreaseKey 761 5487
+getMin
+insert 8967
+getMin
+decreaseKey 1762 920
+extractMin
+getMin
+insert 914
+decreaseKey 1910 7575
+extractMin
+getMin
+insert 7421
+getMin
+getMin
+decreaseKey 1287 8132
+insert 8219
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1949 8603
+extractMin
+getMin
+insert 1185
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 766 3845
+decreaseKey 666 6287
+insert 1797
+insert 5959
+getMin
+decreaseKey 1507 5923
+getMin
+insert 1813
+getMin
+decreaseKey 2123 2896
+decreaseKey 1251 2257
+insert 5653
+decreaseKey 2223 3546
+getMin
+insert 4481
+insert 8689
+getMin
+insert 2484
+extractMin
+getMin
+decreaseKey 341 2936
+insert 6764
+insert 6777
+getMin
+decreaseKey 38 3450
+extractMin
+getMin
+extractMin
+getMin
+insert 9790
+getMin
+extractMin
+getMin
+getMin
+insert 1007
+insert 2400
+insert 2078
+extractMin
+getMin
+insert 3801
+insert 5234
+extractMin
+getMin
+getMin
+decreaseKey 1151 8174
+insert 5197
+insert 3794
+extractMin
+getMin
+decreaseKey 71 2689
+decreaseKey 1556 5026
+decreaseKey 2232 5957
+decreaseKey 469 9425
+getMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 2194 5278
+insert 9767
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1377 8901
+insert 6943
+insert 3737
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 922 3334
+getMin
+getMin
+insert 2965
+getMin
+extractMin
+getMin
+decreaseKey 1060 9940
+extractMin
+getMin
+decreaseKey 466 8024
+extractMin
+getMin
+getMin
+decreaseKey 268 7023
+getMin
+insert 7191
+decreaseKey 828 2995
+insert 5388
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 2013 3095
+getMin
+getMin
+insert 3555
+decreaseKey 1668 843
+decreaseKey 2229 3601
+getMin
+insert 52
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 9310
+getMin
+extractMin
+getMin
+decreaseKey 862 4586
+extractMin
+getMin
+getMin
+insert 3317
+extractMin
+getMin
+getMin
+decreaseKey 757 2252
+extractMin
+getMin
+insert 4163
+extractMin
+getMin
+insert 4210
+decreaseKey 1331 832
+decreaseKey 1715 4003
+getMin
+decreaseKey 2063 6643
+extractMin
+getMin
+decreaseKey 1936 8182
+extractMin
+getMin
+getMin
+insert 5859
+getMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 137 1948
+getMin
+decreaseKey 1098 8472
+extractMin
+getMin
+insert 2276
+insert 584
+getMin
+decreaseKey 2327 8900
+decreaseKey 1290 356
+decreaseKey 1243 261
+getMin
+getMin
+decreaseKey 1340 5750
+getMin
+decreaseKey 1257 8387
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 1269
+decreaseKey 1552 9865
+decreaseKey 1746 5219
+decreaseKey 739 317
+decreaseKey 2168 3632
+decreaseKey 1830 6199
+extractMin
+getMin
+decreaseKey 1593 500
+decreaseKey 2040 609
+getMin
+getMin
+insert 2341
+decreaseKey 134 9446
+extractMin
+getMin
+decreaseKey 2038 4351
+insert 2178
+decreaseKey 1998 1177
+decreaseKey 1769 6702
+decreaseKey 1811 5174
+insert 5711
+getMin
+insert 2686
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 2612
+getMin
+insert 1007
+extractMin
+getMin
+insert 6696
+insert 2391
+getMin
+decreaseKey 245 3124
+insert 6824
+decreaseKey 1935 462
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1902 222
+getMin
+getMin
+decreaseKey 1891 2297
+getMin
+getMin
+insert 2430
+insert 4882
+decreaseKey 382 9967
+getMin
+decreaseKey 1091 7388
+insert 8597
+decreaseKey 1413 6576
+decreaseKey 1888 6984
+extractMin
+getMin
+getMin
+insert 9069
+insert 9505
+decreaseKey 2247 6598
+getMin
+decreaseKey 1087 7569
+decreaseKey 31 2557
+decreaseKey 34 8423
+decreaseKey 1152 6153
+extractMin
+getMin
+insert 6397
+insert 2213
+decreaseKey 1916 5369
+decreaseKey 51 2666
+decreaseKey 84 5112
+insert 1019
+insert 3263
+getMin
+decreaseKey 946 4405
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1387 724
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7930
+decreaseKey 2227 1501
+insert 712
+extractMin
+getMin
+decreaseKey 2243 9438
+extractMin
+getMin
+decreaseKey 1428 8473
+insert 5091
+decreaseKey 1707 9058
+insert 7298
+insert 2035
+decreaseKey 1340 2821
+decreaseKey 2002 8718
+insert 5882
+extractMin
+getMin
+insert 8417
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4328
+getMin
+getMin
+getMin
+decreaseKey 575 8826
+getMin
+extractMin
+getMin
+getMin
+insert 7378
+insert 3655
+decreaseKey 1133 3343
+extractMin
+getMin
+getMin
+insert 8233
+insert 3530
+insert 9866
+insert 9896
+insert 656
+getMin
+insert 9173
+getMin
+insert 5818
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1962 8327
+insert 805
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1939 3122
+insert 3687
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 326 5815
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1393 5913
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1761 3880
+insert 6142
+getMin
+getMin
+decreaseKey 1966 4307
+getMin
+decreaseKey 1992 5055
+extractMin
+getMin
+decreaseKey 1520 61
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 2045 5617
+getMin
+insert 679
+getMin
+insert 600
+getMin
+decreaseKey 1160 6842
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 883 3107
+getMin
+extractMin
+getMin
+decreaseKey 2121 3474
+extractMin
+getMin
+insert 8203
+getMin
+insert 7492
+getMin
+extractMin
+getMin
+insert 7275
+getMin
+decreaseKey 2362 3797
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2530 4697
+extractMin
+getMin
+decreaseKey 841 6069
+insert 9897
+insert 8073
+decreaseKey 206 5196
+insert 1926
+decreaseKey 2287 4561
+decreaseKey 693 7597
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2398 5222
+extractMin
+getMin
+insert 5744
+insert 8291
+extractMin
+getMin
+decreaseKey 253 6034
+getMin
+insert 2985
+getMin
+getMin
+getMin
+insert 7925
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 5612
+getMin
+getMin
+insert 3980
+insert 3810
+insert 8472
+decreaseKey 1363 6745
+getMin
+insert 7126
+extractMin
+getMin
+decreaseKey 2466 8972
+insert 7260
+decreaseKey 2471 5518
+insert 3932
+getMin
+getMin
+getMin
+decreaseKey 1992 5297
+insert 1130
+insert 548
+decreaseKey 1156 2529
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1994 9230
+insert 9812
+decreaseKey 2122 7601
+decreaseKey 1456 4879
+getMin
+insert 5248
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 816 2322
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4478
+getMin
+extractMin
+getMin
+decreaseKey 1668 1762
+extractMin
+getMin
+extractMin
+getMin
+insert 1619
+decreaseKey 2362 2962
+decreaseKey 1298 9433
+getMin
+decreaseKey 2587 2935
+decreaseKey 12 6580
+insert 5993
+insert 6814
+getMin
+getMin
+insert 7967
+decreaseKey 297 9032
+insert 5777
+insert 6907
+getMin
+insert 7040
+decreaseKey 1916 6977
+extractMin
+getMin
+getMin
+decreaseKey 1744 9061
+getMin
+decreaseKey 1169 4996
+decreaseKey 580 5013
+insert 5175
+decreaseKey 1689 160
+insert 1992
+insert 7432
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2561 4038
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 666 2087
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 2993
+decreaseKey 1487 803
+decreaseKey 337 6186
+getMin
+getMin
+getMin
+insert 2613
+insert 8712
+decreaseKey 764 1508
+decreaseKey 477 1564
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2091 8122
+insert 471
+decreaseKey 1284 200
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2446 7045
+getMin
+decreaseKey 2297 9046
+insert 1011
+extractMin
+getMin
+getMin
+insert 5945
+decreaseKey 1513 7847
+decreaseKey 1881 3596
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 5029
+extractMin
+getMin
+insert 8482
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 772 2733
+decreaseKey 2264 2025
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 3370
+insert 1623
+decreaseKey 773 9086
+decreaseKey 71 2116
+decreaseKey 1396 1692
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 1768
+getMin
+insert 2658
+decreaseKey 271 481
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 958 9956
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 1683
+extractMin
+getMin
+getMin
+decreaseKey 1735 6488
+decreaseKey 2065 3369
+getMin
+getMin
+decreaseKey 720 8018
+insert 1505
+insert 9536
+decreaseKey 2370 1243
+insert 394
+decreaseKey 1497 8685
+decreaseKey 1999 1708
+decreaseKey 1935 2250
+insert 4514
+getMin
+insert 591
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 240 6093
+getMin
+decreaseKey 76 8360
+getMin
+decreaseKey 1904 8300
+extractMin
+getMin
+insert 3202
+decreaseKey 1108 5236
+decreaseKey 2251 3095
+insert 7427
+getMin
+decreaseKey 1529 4547
+insert 6925
+getMin
+getMin
+extractMin
+getMin
+insert 42
+getMin
+insert 1795
+insert 9239
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 371 7198
+decreaseKey 308 4007
+getMin
+insert 6306
+insert 689
+decreaseKey 524 5535
+decreaseKey 995 9241
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1305
+insert 8372
+getMin
+insert 8913
+getMin
+getMin
+decreaseKey 574 3924
+getMin
+decreaseKey 129 8109
+decreaseKey 11 8511
+getMin
+getMin
+decreaseKey 1922 8181
+insert 7550
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2246 5600
+getMin
+extractMin
+getMin
+decreaseKey 2229 6304
+decreaseKey 686 8053
+getMin
+insert 6179
+insert 2713
+getMin
+extractMin
+getMin
+insert 9982
+getMin
+insert 8563
+extractMin
+getMin
+getMin
+decreaseKey 1007 466
+getMin
+extractMin
+getMin
+insert 2178
+getMin
+insert 6720
+insert 5045
+insert 6409
+decreaseKey 2190 9489
+decreaseKey 2511 474
+decreaseKey 2416 547
+extractMin
+getMin
+insert 9695
+insert 3637
+extractMin
+getMin
+insert 5887
+insert 3895
+getMin
+decreaseKey 1661 975
+extractMin
+getMin
+insert 7890
+insert 1189
+decreaseKey 507 4989
+insert 2180
+insert 3588
+decreaseKey 76 5396
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 5460
+extractMin
+getMin
+insert 122
+extractMin
+getMin
+getMin
+insert 8544
+getMin
+getMin
+insert 4244
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 7147
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 217 5070
+decreaseKey 2625 3325
+extractMin
+getMin
+decreaseKey 543 5802
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2676 1692
+insert 3583
+getMin
+decreaseKey 524 6855
+extractMin
+getMin
+getMin
+insert 2494
+extractMin
+getMin
+getMin
+decreaseKey 2014 3038
+insert 9969
+extractMin
+getMin
+decreaseKey 564 8712
+decreaseKey 1086 5785
+getMin
+extractMin
+getMin
+decreaseKey 2229 5275
+insert 4084
+getMin
+getMin
+getMin
+decreaseKey 1290 5764
+decreaseKey 222 1340
+decreaseKey 650 1267
+insert 2666
+extractMin
+getMin
+decreaseKey 1484 7400
+decreaseKey 98 6258
+getMin
+insert 6759
+getMin
+getMin
+decreaseKey 2316 7402
+decreaseKey 1060 6237
+insert 21
+insert 7864
+decreaseKey 865 1995
+insert 1494
+insert 9816
+insert 4834
+decreaseKey 578 6604
+extractMin
+getMin
+insert 6880
+decreaseKey 1981 1674
+getMin
+extractMin
+getMin
+decreaseKey 268 1326
+insert 3720
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2178 8262
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 174 2240
+insert 2691
+decreaseKey 84 9619
+extractMin
+getMin
+decreaseKey 764 3895
+insert 9407
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 9762
+decreaseKey 206 5388
+extractMin
+getMin
+insert 8691
+insert 4699
+extractMin
+getMin
+getMin
+insert 7547
+getMin
+decreaseKey 673 1820
+insert 4682
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1146 2028
+insert 8574
+decreaseKey 251 4054
+getMin
+getMin
+decreaseKey 2636 6264
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4836
+extractMin
+getMin
+decreaseKey 2178 9058
+insert 7286
+insert 5343
+extractMin
+getMin
+insert 7425
+insert 4684
+getMin
+decreaseKey 2002 2092
+getMin
+getMin
+getMin
+decreaseKey 49 7034
+extractMin
+getMin
+insert 3239
+insert 2718
+decreaseKey 2572 3081
+insert 6741
+insert 9649
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2233 8828
+decreaseKey 2039 5970
+decreaseKey 2440 9124
+extractMin
+getMin
+decreaseKey 2164 7197
+decreaseKey 830 4644
+insert 157
+extractMin
+getMin
+getMin
+decreaseKey 1445 4957
+decreaseKey 2790 5539
+getMin
+insert 3646
+getMin
+insert 4419
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1502 2314
+extractMin
+getMin
+getMin
+insert 5880
+extractMin
+getMin
+decreaseKey 2770 7253
+getMin
+extractMin
+getMin
+getMin
+insert 8127
+decreaseKey 2625 1566
+getMin
+decreaseKey 2688 9650
+decreaseKey 2828 7268
+extractMin
+getMin
+getMin
+getMin
+insert 4801
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1991 4991
+insert 6125
+extractMin
+getMin
+insert 6365
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 920
+insert 9425
+decreaseKey 1081 6658
+getMin
+decreaseKey 239 5681
+getMin
+insert 3928
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 60 9177
+decreaseKey 1003 6822
+insert 7701
+insert 629
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1550 710
+insert 3471
+decreaseKey 1912 9391
+getMin
+insert 8169
+insert 4455
+insert 1624
+decreaseKey 2123 8420
+extractMin
+getMin
+extractMin
+getMin
+insert 4927
+decreaseKey 2587 5293
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 686 7002
+getMin
+getMin
+insert 742
+getMin
+insert 2426
+insert 8213
+getMin
+getMin
+decreaseKey 1592 6377
+insert 5695
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 5800
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1298 5523
+getMin
+insert 9541
+extractMin
+getMin
+decreaseKey 1932 2079
+insert 2745
+decreaseKey 1343 7824
+extractMin
+getMin
+decreaseKey 2102 3527
+getMin
+decreaseKey 1671 6169
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 1719
+decreaseKey 2478 5562
+decreaseKey 868 4129
+decreaseKey 1923 5222
+decreaseKey 2301 9306
+extractMin
+getMin
+getMin
+insert 6366
+getMin
+decreaseKey 1 3485
+getMin
+getMin
+decreaseKey 578 6201
+decreaseKey 2976 7355
+decreaseKey 2864 4344
+extractMin
+getMin
+getMin
+insert 3958
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1781
+extractMin
+getMin
+decreaseKey 2964 8462
+extractMin
+getMin
+getMin
+insert 1431
+insert 185
+extractMin
+getMin
+extractMin
+getMin
+insert 1727
+decreaseKey 334 4784
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 3013
+extractMin
+getMin
+getMin
+insert 6418
+insert 8235
+getMin
+extractMin
+getMin
+decreaseKey 124 1301
+extractMin
+getMin
+getMin
+decreaseKey 290 5654
+decreaseKey 371 868
+insert 6978
+extractMin
+getMin
+insert 2396
+decreaseKey 1333 4406
+getMin
+insert 9490
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1603 1005
+decreaseKey 292 4803
+insert 1373
+extractMin
+getMin
+decreaseKey 2208 6851
+insert 1787
+getMin
+extractMin
+getMin
+getMin
+insert 2708
+insert 1416
+insert 5255
+insert 7733
+extractMin
+getMin
+insert 7699
+getMin
+decreaseKey 2496 5162
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2751 2374
+extractMin
+getMin
+decreaseKey 92 5246
+extractMin
+getMin
+insert 7772
+decreaseKey 2377 4348
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 6479
+insert 6171
+extractMin
+getMin
+extractMin
+getMin
+insert 5124
+decreaseKey 1298 8344
+getMin
+getMin
+getMin
+decreaseKey 2552 2978
+insert 442
+insert 7177
+insert 6313
+extractMin
+getMin
+insert 2073
+decreaseKey 2730 7456
+insert 5628
+decreaseKey 1682 3499
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 664 1555
+extractMin
+getMin
+decreaseKey 1919 3324
+getMin
+decreaseKey 2530 5518
+getMin
+getMin
+decreaseKey 2932 2918
+extractMin
+getMin
+getMin
+insert 2769
+decreaseKey 2948 729
+getMin
+insert 7074
+insert 4298
+decreaseKey 1485 7674
+extractMin
+getMin
+decreaseKey 1120 3327
+decreaseKey 217 5480
+extractMin
+getMin
+getMin
+insert 9313
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 6091
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 5775
+decreaseKey 3161 6120
+decreaseKey 2653 7866
+getMin
+getMin
+insert 5331
+insert 7009
+decreaseKey 1603 202
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2115 897
+insert 735
+insert 1912
+insert 525
+extractMin
+getMin
+decreaseKey 1919 6844
+getMin
+extractMin
+getMin
+decreaseKey 31 4198
+decreaseKey 2770 6322
+insert 1996
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 660 6045
+decreaseKey 1936 8912
+insert 3052
+decreaseKey 3212 8667
+insert 1455
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1932 3639
+getMin
+getMin
+getMin
+decreaseKey 2075 1970
+extractMin
+getMin
+extractMin
+getMin
+insert 8240
+getMin
+decreaseKey 1267 3870
+extractMin
+getMin
+getMin
+insert 6254
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 1648
+decreaseKey 226 3697
+extractMin
+getMin
+decreaseKey 169 1587
+decreaseKey 2244 7929
+decreaseKey 828 6906
+extractMin
+getMin
+getMin
+decreaseKey 2557 2695
+getMin
+decreaseKey 2118 760
+getMin
+insert 9677
+getMin
+insert 3681
+getMin
+insert 340
+extractMin
+getMin
+decreaseKey 3306 5643
+decreaseKey 490 7951
+getMin
+extractMin
+getMin
+decreaseKey 3317 9529
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 3934
+insert 2190
+decreaseKey 2977 9368
+insert 8316
+insert 4255
+extractMin
+getMin
+extractMin
+getMin
+insert 5074
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2754 2459
+insert 9424
+decreaseKey 1450 5842
+extractMin
+getMin
+decreaseKey 268 9006
+decreaseKey 1590 6832
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 3322
+decreaseKey 507 8976
+getMin
+getMin
+decreaseKey 268 9979
+insert 1708
+decreaseKey 3259 3118
+extractMin
+getMin
+decreaseKey 2659 5362
+decreaseKey 1484 436
+getMin
+insert 3019
+getMin
+extractMin
+getMin
+decreaseKey 1212 5205
+decreaseKey 2079 9603
+extractMin
+getMin
+getMin
+decreaseKey 1904 5108
+insert 6520
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 823 2984
+getMin
+insert 5088
+decreaseKey 823 9189
+insert 2485
+insert 7877
+insert 8027
+decreaseKey 1618 335
+decreaseKey 258 6885
+insert 6887
+getMin
+insert 4579
+decreaseKey 1006 241
+insert 2067
+getMin
+insert 2535
+insert 9304
+decreaseKey 2443 6440
+decreaseKey 2305 4299
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 2902 9898
+insert 9412
+decreaseKey 1282 8520
+extractMin
+getMin
+getMin
+getMin
+getMin
+insert 1081
+extractMin
+getMin
+getMin
+insert 5641
+insert 83
+getMin
+insert 3729
+getMin
+getMin
+decreaseKey 2902 7358
+decreaseKey 1707 8375
+extractMin
+getMin
+insert 6731
+extractMin
+getMin
+insert 3523
+insert 3325
+insert 4381
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2468 1798
+extractMin
+getMin
+getMin
+insert 4241
+insert 6830
+getMin
+insert 2693
+extractMin
+getMin
+decreaseKey 1769 2191
+insert 9036
+extractMin
+getMin
+insert 5716
+getMin
+extractMin
+getMin
+insert 1187
+decreaseKey 858 3599
+insert 4816
+insert 2166
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 8993
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 457 8581
+getMin
+getMin
+getMin
+insert 2596
+extractMin
+getMin
+extractMin
+getMin
+insert 9228
+getMin
+decreaseKey 2446 7002
+extractMin
+getMin
+getMin
+decreaseKey 3040 2510
+getMin
+decreaseKey 1918 3011
+extractMin
+getMin
+insert 732
+decreaseKey 2045 1336
+getMin
+getMin
+getMin
+insert 1728
+decreaseKey 3040 3947
+decreaseKey 2770 965
+decreaseKey 1421 7353
+decreaseKey 1889 2046
+decreaseKey 922 8418
+decreaseKey 392 5279
+decreaseKey 1072 6492
+insert 3016
+decreaseKey 780 8613
+decreaseKey 1965 3503
+extractMin
+getMin
+getMin
+insert 9568
+extractMin
+getMin
+insert 435
+insert 9439
+decreaseKey 1445 620
+decreaseKey 118 9928
+decreaseKey 1520 8530
+insert 301
+decreaseKey 2571 498
+extractMin
+getMin
+getMin
+decreaseKey 1112 3404
+decreaseKey 457 1919
+extractMin
+getMin
+insert 1401
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 3200 5961
+decreaseKey 917 3872
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1323 6737
+decreaseKey 813 9710
+decreaseKey 2166 7484
+decreaseKey 179 2701
+insert 2547
+getMin
+decreaseKey 1943 1067
+decreaseKey 2123 5925
+decreaseKey 2758 6033
+getMin
+decreaseKey 2573 7116
+extractMin
+getMin
+getMin
+decreaseKey 1108 4345
+insert 1734
+decreaseKey 2961 1244
+getMin
+decreaseKey 881 1396
+decreaseKey 22 5630
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1965 8559
+getMin
+extractMin
+getMin
+insert 6872
+insert 4357
+decreaseKey 2036 5084
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2079 1071
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1864
+getMin
+insert 2106
+insert 1011
+decreaseKey 1340 668
+decreaseKey 2823 9932
+insert 1293
+decreaseKey 1963 6984
+decreaseKey 2659 2802
+decreaseKey 3165 3481
+getMin
+extractMin
+getMin
+decreaseKey 2709 3892
+extractMin
+getMin
+decreaseKey 396 1262
+extractMin
+getMin
+getMin
+getMin
+insert 3281
+extractMin
+getMin
+insert 3054
+insert 3992
+decreaseKey 124 5639
+insert 6738
+decreaseKey 360 7259
+insert 2743
+extractMin
+getMin
+insert 6608
+decreaseKey 2366 7359
+insert 8257
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1618 5256
+getMin
+decreaseKey 1443 2322
+extractMin
+getMin
+extractMin
+getMin
+insert 2141
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 3067 3367
+insert 2482
+decreaseKey 273 2737
+getMin
+decreaseKey 1556 6962
+extractMin
+getMin
+extractMin
+getMin
+insert 6888
+insert 3975
+decreaseKey 1120 3619
+getMin
+decreaseKey 2864 3904
+insert 4206
+extractMin
+getMin
+decreaseKey 1515 3146
+getMin
+insert 9533
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 176 2314
+decreaseKey 1507 6448
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 3559
+getMin
+extractMin
+getMin
+insert 3258
+extractMin
+getMin
+decreaseKey 830 3034
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 2593 9380
+insert 3058
+extractMin
+getMin
+decreaseKey 560 8305
+extractMin
+getMin
+insert 9349
+decreaseKey 985 8583
+decreaseKey 2416 2748
+decreaseKey 560 1325
+decreaseKey 1962 3240
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 817 3882
+insert 8493
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 167
+insert 5573
+extractMin
+getMin
+getMin
+insert 3517
+decreaseKey 3485 5007
+insert 558
+decreaseKey 1576 4929
+decreaseKey 3442 7946
+decreaseKey 1143 3144
+getMin
+extractMin
+getMin
+insert 6917
+decreaseKey 258 8021
+extractMin
+getMin
+insert 4623
+getMin
+insert 3222
+insert 5560
+extractMin
+getMin
+extractMin
+getMin
+insert 297
+insert 914
+getMin
+getMin
+getMin
+decreaseKey 2880 6477
+extractMin
+getMin
+getMin
+decreaseKey 2727 3291
+getMin
+decreaseKey 176 1662
+decreaseKey 1224 1833
+getMin
+extractMin
+getMin
+insert 2350
+getMin
+extractMin
+getMin
+decreaseKey 702 5246
+extractMin
+getMin
+decreaseKey 3679 9991
+extractMin
+getMin
+decreaseKey 1062 132
+decreaseKey 82 6202
+extractMin
+getMin
+extractMin
+getMin
+insert 4856
+extractMin
+getMin
+decreaseKey 1286 5260
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 651 4387
+extractMin
+getMin
+extractMin
+getMin
+insert 4510
+decreaseKey 1055 253
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 3212 7877
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3468 8885
+extractMin
+getMin
+getMin
+decreaseKey 1267 628
+insert 4389
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1529 6145
+insert 6712
+extractMin
+getMin
+insert 3972
+decreaseKey 2576 2320
+getMin
+getMin
+insert 4610
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3344 4394
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 3505
+decreaseKey 343 1328
+extractMin
+getMin
+getMin
+insert 9256
+decreaseKey 1550 4594
+insert 4455
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1881 1421
+insert 5615
+getMin
+insert 302
+getMin
+getMin
+decreaseKey 3137 3990
+insert 3021
+getMin
+decreaseKey 2932 7248
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 927
+insert 1361
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1501 5432
+getMin
+decreaseKey 3265 7458
+getMin
+extractMin
+getMin
+insert 7907
+decreaseKey 2351 2215
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 425 1814
+decreaseKey 2831 7396
+extractMin
+getMin
+extractMin
+getMin
+insert 5799
+decreaseKey 2301 6272
+insert 4809
+insert 632
+getMin
+extractMin
+getMin
+decreaseKey 3049 2225
+decreaseKey 1029 6838
+decreaseKey 3671 6745
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2065 495
+insert 9802
+extractMin
+getMin
+decreaseKey 441 4283
+extractMin
+getMin
+getMin
+decreaseKey 1006 3358
+getMin
+decreaseKey 2823 6445
+insert 8449
+getMin
+getMin
+insert 2686
+extractMin
+getMin
+decreaseKey 1381 5112
+extractMin
+getMin
+getMin
+insert 5895
+extractMin
+getMin
+extractMin
+getMin
+insert 8724
+extractMin
+getMin
+insert 7141
+getMin
+insert 3725
+decreaseKey 2593 7784
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2686 2091
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2417 4116
+getMin
+getMin
+decreaseKey 2417 3431
+insert 6105
+getMin
+insert 7214
+extractMin
+getMin
+insert 2399
+getMin
+getMin
+insert 7419
+extractMin
+getMin
+decreaseKey 1894 9691
+extractMin
+getMin
+decreaseKey 3493 3693
+decreaseKey 52 9199
+getMin
+insert 5053
+getMin
+decreaseKey 1281 8835
+extractMin
+getMin
+extractMin
+getMin
+insert 9720
+insert 401
+insert 8276
+decreaseKey 483 7132
+insert 3471
+getMin
+decreaseKey 2814 4683
+decreaseKey 858 8799
+decreaseKey 1192 1131
+extractMin
+getMin
+insert 7127
+extractMin
+getMin
+insert 8613
+insert 5149
+getMin
+getMin
+decreaseKey 2421 3046
+decreaseKey 1744 2880
+decreaseKey 2466 8583
+decreaseKey 1994 3501
+getMin
+decreaseKey 2301 4713
+getMin
+insert 6295
+extractMin
+getMin
+decreaseKey 3679 5902
+decreaseKey 2748 3235
+insert 9326
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 817 3591
+extractMin
+getMin
+decreaseKey 1288 1812
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 6630
+decreaseKey 1668 8435
+decreaseKey 2287 2868
+insert 9345
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 7802
+insert 579
+insert 33
+insert 7654
+extractMin
+getMin
+insert 6836
+decreaseKey 2679 75
+decreaseKey 2880 7037
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 7201
+decreaseKey 1238 8811
+decreaseKey 1209 1780
+insert 2717
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 6107
+decreaseKey 2121 4191
+decreaseKey 3916 6293
+getMin
+decreaseKey 179 6268
+getMin
+insert 9747
+insert 6216
+extractMin
+getMin
+decreaseKey 670 3944
+insert 4861
+decreaseKey 753 2247
+insert 5796
+getMin
+extractMin
+getMin
+insert 2724
+getMin
+getMin
+decreaseKey 1212 485
+decreaseKey 3168 8270
+decreaseKey 1456 38
+insert 9568
+getMin
+insert 4330
+insert 9883
+extractMin
+getMin
+getMin
+insert 2734
+decreaseKey 922 853
+decreaseKey 3072 6507
+decreaseKey 1068 7665
+extractMin
+getMin
+extractMin
+getMin
+insert 9518
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 4177
+insert 2599
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 6721
+insert 2543
+getMin
+getMin
+extractMin
+getMin
+insert 1730
+insert 8590
+getMin
+insert 5568
+getMin
+extractMin
+getMin
+decreaseKey 2382 7237
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 3394 6230
+decreaseKey 2005 5231
+decreaseKey 2435 2932
+insert 6080
+decreaseKey 1098 7237
+extractMin
+getMin
+extractMin
+getMin
+insert 8808
+extractMin
+getMin
+insert 4572
+getMin
+insert 1740
+decreaseKey 994 8746
+extractMin
+getMin
+getMin
+getMin
+insert 552
+decreaseKey 340 2457
+insert 6614
+decreaseKey 3616 9737
+decreaseKey 3563 2064
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2576 5303
+getMin
+extractMin
+getMin
+getMin
+insert 7490
+decreaseKey 2467 387
+insert 8619
+decreaseKey 766 142
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1557 9722
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1196 8773
+decreaseKey 3403 8168
+getMin
+extractMin
+getMin
+insert 705
+decreaseKey 4008 3112
+extractMin
+getMin
+insert 1916
+insert 1560
+getMin
+getMin
+insert 6818
+getMin
+decreaseKey 3806 2912
+extractMin
+getMin
+insert 7523
+getMin
+decreaseKey 3564 6011
+insert 4436
+getMin
+insert 853
+decreaseKey 3137 3829
+getMin
+extractMin
+getMin
+decreaseKey 1912 1337
+decreaseKey 2902 8920
+decreaseKey 40 8669
+insert 8120
+extractMin
+getMin
+insert 5257
+insert 8991
+getMin
+decreaseKey 4010 2048
+extractMin
+getMin
+getMin
+insert 8748
+insert 8345
+insert 275
+insert 2946
+extractMin
+getMin
+decreaseKey 1910 972
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 830 8882
+getMin
+getMin
+getMin
+decreaseKey 1794 1215
+getMin
+getMin
+getMin
+insert 6838
+decreaseKey 816 1228
+insert 9194
+insert 8238
+getMin
+insert 5920
+decreaseKey 3841 9233
+insert 5554
+getMin
+insert 3543
+insert 453
+getMin
+decreaseKey 2597 4160
+insert 2408
+decreaseKey 720 7986
+decreaseKey 1332 487
+insert 2516
+decreaseKey 3953 3507
+insert 9351
+insert 239
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4880
+extractMin
+getMin
+insert 8307
+insert 6985
+getMin
+extractMin
+getMin
+decreaseKey 3431 1440
+decreaseKey 4010 2294
+getMin
+extractMin
+getMin
+decreaseKey 2178 3357
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1267 1092
+insert 4887
+insert 2272
+getMin
+getMin
+getMin
+getMin
+insert 2060
+extractMin
+getMin
+extractMin
+getMin
+insert 7759
+decreaseKey 3170 7304
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2513 1611
+decreaseKey 830 155
+decreaseKey 1615 3559
+insert 5151
+getMin
+decreaseKey 3839 4381
+extractMin
+getMin
+insert 2247
+insert 4587
+decreaseKey 3085 2508
+getMin
+getMin
+decreaseKey 3638 2215
+decreaseKey 3468 6937
+decreaseKey 3137 9764
+getMin
+decreaseKey 3442 6962
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1576 7187
+extractMin
+getMin
+getMin
+insert 5729
+insert 71
+extractMin
+getMin
+insert 6327
+getMin
+decreaseKey 1808 1751
+decreaseKey 1108 4589
+getMin
+extractMin
+getMin
+insert 6536
+decreaseKey 3736 4493
+decreaseKey 1363 1284
+getMin
+insert 6453
+getMin
+getMin
+getMin
+insert 4241
+extractMin
+getMin
+getMin
+getMin
+insert 1227
+insert 8767
+extractMin
+getMin
+insert 1458
+extractMin
+getMin
+extractMin
+getMin
+insert 7492
+insert 2929
+decreaseKey 1794 556
+insert 8403
+insert 7789
+decreaseKey 1224 5954
+getMin
+getMin
+insert 9631
+getMin
+getMin
+decreaseKey 3950 7652
+decreaseKey 2056 6563
+extractMin
+getMin
+decreaseKey 1619 2038
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 5405
+extractMin
+getMin
+insert 3526
+getMin
+decreaseKey 2402 6214
+extractMin
+getMin
+decreaseKey 1396 363
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2935 8649
+getMin
+getMin
+decreaseKey 183 4309
+getMin
+getMin
+decreaseKey 1836 2245
+getMin
+getMin
+insert 3860
+decreaseKey 2337 257
+decreaseKey 1267 3741
+getMin
+getMin
+getMin
+decreaseKey 1520 7581
+insert 5290
+getMin
+decreaseKey 812 9492
+insert 3158
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 6311
+getMin
+decreaseKey 3505 4826
+getMin
+extractMin
+getMin
+decreaseKey 2124 2304
+decreaseKey 2511 8239
+insert 9103
+extractMin
+getMin
+decreaseKey 651 554
+decreaseKey 2586 2646
+getMin
+extractMin
+getMin
+decreaseKey 2062 425
+insert 762
+extractMin
+getMin
+decreaseKey 1923 9557
+decreaseKey 1323 5115
+insert 4971
+getMin
+decreaseKey 2004 1399
+insert 87
+insert 3928
+decreaseKey 2541 7869
+insert 563
+getMin
+getMin
+decreaseKey 1592 4539
+insert 267
+extractMin
+getMin
+getMin
+insert 2053
+decreaseKey 2597 4003
+getMin
+extractMin
+getMin
+insert 8949
+decreaseKey 3206 927
+decreaseKey 457 5583
+getMin
+insert 6217
+extractMin
+getMin
+decreaseKey 1808 103
+decreaseKey 4015 6092
+insert 5397
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 11 1086
+extractMin
+getMin
+decreaseKey 1970 6763
+decreaseKey 4008 7473
+getMin
+insert 2994
+extractMin
+getMin
+getMin
+insert 6225
+decreaseKey 610 630
+decreaseKey 4151 4314
+decreaseKey 3306 2587
+extractMin
+getMin
+insert 5626
+decreaseKey 666 2037
+extractMin
+getMin
+insert 8412
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 5506
+decreaseKey 1143 4450
+decreaseKey 4073 1125
+getMin
+getMin
+extractMin
+getMin
+insert 770
+decreaseKey 1963 3360
+getMin
+getMin
+decreaseKey 213 5403
+insert 6806
+extractMin
+getMin
+insert 7168
+decreaseKey 3317 7950
+decreaseKey 2979 6500
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 4679
+getMin
+getMin
+getMin
+decreaseKey 3235 7534
+insert 8135
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+getMin
+getMin
+insert 3662
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1450 5995
+extractMin
+getMin
+decreaseKey 2653 2375
+insert 1717
+getMin
+decreaseKey 2468 3691
+insert 6990
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 404 6452
+insert 7405
+extractMin
+getMin
+insert 6824
+decreaseKey 772 4872
+extractMin
+getMin
+decreaseKey 889 2560
+getMin
+decreaseKey 372 4266
+decreaseKey 3179 6902
+getMin
+insert 2074
+insert 1129
+insert 5295
+extractMin
+getMin
+decreaseKey 2372 711
+decreaseKey 2790 4051
+getMin
+extractMin
+getMin
+decreaseKey 1957 5014
+insert 960
+insert 4757
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 6497
+decreaseKey 3067 8874
+insert 6006
+getMin
+insert 2402
+decreaseKey 1687 5885
+getMin
+decreaseKey 2372 9265
+getMin
+decreaseKey 4174 1082
+decreaseKey 4168 5952
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 2408 2093
+getMin
+decreaseKey 1112 2406
+extractMin
+getMin
+insert 6928
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 40 775
+extractMin
+getMin
+extractMin
+getMin
+insert 6414
+insert 4620
+insert 3147
+extractMin
+getMin
+insert 17
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1677
+decreaseKey 1746 4233
+insert 2499
+extractMin
+getMin
+decreaseKey 2435 4659
+extractMin
+getMin
+getMin
+insert 2241
+getMin
+getMin
+decreaseKey 1904 3004
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 3263
+decreaseKey 2465 4280
+insert 1286
+getMin
+extractMin
+getMin
+insert 9901
+insert 4252
+extractMin
+getMin
+extractMin
+getMin
+insert 8927
+extractMin
+getMin
+insert 7036
+extractMin
+getMin
+insert 5759
+extractMin
+getMin
+insert 6527
+extractMin
+getMin
+decreaseKey 4010 9577
+getMin
+getMin
+decreaseKey 3617 1697
+insert 5625
+getMin
+decreaseKey 781 6666
+decreaseKey 4393 752
+insert 3346
+insert 7191
+insert 4315
+decreaseKey 2965 5850
+insert 5758
+getMin
+getMin
+insert 2917
+getMin
+decreaseKey 2075 803
+insert 8467
+getMin
+extractMin
+getMin
+insert 6067
+getMin
+extractMin
+getMin
+decreaseKey 3085 1442
+decreaseKey 4241 5
+decreaseKey 2628 414
+decreaseKey 2305 4479
+extractMin
+getMin
+insert 6947
+decreaseKey 781 5648
+decreaseKey 3067 381
+decreaseKey 4102 1366
+decreaseKey 924 6720
+getMin
+decreaseKey 3119 616
+decreaseKey 236 8966
+extractMin
+getMin
+decreaseKey 1196 4295
+insert 3433
+extractMin
+getMin
+insert 8123
+decreaseKey 1870 7997
+getMin
+extractMin
+getMin
+getMin
+insert 8259
+extractMin
+getMin
+decreaseKey 2469 5630
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 2156
+extractMin
+getMin
+extractMin
+getMin
+insert 453
+extractMin
+getMin
+insert 1141
+insert 356
+insert 2282
+insert 9480
+getMin
+insert 3594
+insert 2795
+insert 2621
+getMin
+insert 4607
+getMin
+getMin
+insert 2714
+decreaseKey 4075 377
+insert 8688
+insert 5810
+decreaseKey 2301 8311
+insert 7799
+getMin
+extractMin
+getMin
+decreaseKey 4385 4780
+insert 4837
+extractMin
+getMin
+getMin
+decreaseKey 1431 5895
+decreaseKey 1140 9752
+insert 8174
+getMin
+decreaseKey 3357 4272
+insert 1481
+insert 5982
+extractMin
+getMin
+getMin
+decreaseKey 3961 9387
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 79 6016
+decreaseKey 2734 7342
+decreaseKey 989 8664
+insert 8219
+extractMin
+getMin
+decreaseKey 780 6365
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 3272 3800
+decreaseKey 2697 85
+insert 5555
+extractMin
+getMin
+insert 5471
+getMin
+insert 7629
+insert 4040
+decreaseKey 4277 1603
+decreaseKey 3854 2964
+decreaseKey 1443 2064
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1464 8943
+getMin
+insert 2237
+insert 4368
+getMin
+insert 9613
+insert 3114
+insert 1836
+extractMin
+getMin
+decreaseKey 1882 3500
+decreaseKey 3025 9967
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1497 349
+insert 5660
+getMin
+insert 2031
+decreaseKey 2229 6187
+extractMin
+getMin
+getMin
+decreaseKey 1220 3486
+extractMin
+getMin
+insert 7799
+extractMin
+getMin
+decreaseKey 2442 7441
+insert 9027
+insert 3050
+decreaseKey 816 9609
+insert 2762
+getMin
+decreaseKey 1267 7365
+decreaseKey 404 5433
+getMin
+insert 7654
+decreaseKey 3055 5230
+extractMin
+getMin
+decreaseKey 2163 6244
+insert 2857
+getMin
+insert 7563
+getMin
+insert 4394
+extractMin
+getMin
+extractMin
+getMin
+insert 4522
+insert 5208
+decreaseKey 1238 4253
+extractMin
+getMin
+insert 4211
+decreaseKey 1033 2040
+insert 2849
+insert 3490
+decreaseKey 1284 2624
+insert 9521
+getMin
+getMin
+decreaseKey 1949 6670
+extractMin
+getMin
+getMin
+insert 9280
+insert 7155
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 3713 3088
+decreaseKey 3881 5607
+decreaseKey 3133 7066
+decreaseKey 3550 984
+decreaseKey 2382 9870
+getMin
+extractMin
+getMin
+getMin
+insert 8690
+insert 5490
+insert 7777
+getMin
+decreaseKey 2824 3116
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4462 9795
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 2039 5743
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 2587 4898
+extractMin
+getMin
+insert 4114
+getMin
+decreaseKey 2770 2225
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 4246 1424
+decreaseKey 3345 5336
+decreaseKey 2935 2348
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 2658
+extractMin
+getMin
+decreaseKey 4653 5995
+getMin
+insert 6391
+extractMin
+getMin
+decreaseKey 1767 5806
+insert 6237
+extractMin
+getMin
+getMin
+insert 5843
+extractMin
+getMin
+getMin
+decreaseKey 4510 9124
+getMin
+decreaseKey 4522 6545
+getMin
+extractMin
+getMin
+insert 1528
+extractMin
+getMin
+decreaseKey 2045 7440
+getMin
+insert 5634
+getMin
+insert 6802
+extractMin
+getMin
+getMin
+insert 2161
+extractMin
+getMin
+getMin
+decreaseKey 341 9078
+decreaseKey 3834 8778
+insert 7015
+decreaseKey 1960 9713
+decreaseKey 3145 280
+getMin
+insert 7394
+extractMin
+getMin
+decreaseKey 3962 2026
+getMin
+insert 4595
+insert 2179
+extractMin
+getMin
+getMin
+insert 3044
+extractMin
+getMin
+insert 4587
+insert 2836
+insert 160
+decreaseKey 843 5951
+getMin
+getMin
+decreaseKey 2086 5809
+extractMin
+getMin
+decreaseKey 389 1915
+getMin
+extractMin
+getMin
+decreaseKey 81 126
+extractMin
+getMin
+decreaseKey 1208 5513
+extractMin
+getMin
+decreaseKey 2243 5153
+insert 4033
+insert 6831
+decreaseKey 3635 8233
+decreaseKey 1375 9724
+decreaseKey 3196 849
+getMin
+getMin
+extractMin
+getMin
+insert 1074
+insert 2992
+decreaseKey 2243 9652
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 9000
+getMin
+insert 9275
+decreaseKey 3579 5058
+decreaseKey 2730 2694
+getMin
+insert 6118
+extractMin
+getMin
+getMin
+decreaseKey 3421 9150
+getMin
+insert 5160
+insert 2044
+decreaseKey 2446 5315
+decreaseKey 34 7320
+getMin
+decreaseKey 1916 4868
+insert 8543
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7723
+decreaseKey 2433 7816
+decreaseKey 1431 9640
+insert 4292
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 2938
+insert 3303
+decreaseKey 68 1631
+getMin
+getMin
+extractMin
+getMin
+insert 6267
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 6939
+insert 112
+insert 3863
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 1283
+getMin
+decreaseKey 1906 2651
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 3206 1318
+decreaseKey 3124 2169
+extractMin
+getMin
+insert 7829
+extractMin
+getMin
+getMin
+getMin
+insert 370
+extractMin
+getMin
+decreaseKey 3916 320
+decreaseKey 2446 1851
+decreaseKey 2803 7415
+decreaseKey 4639 4191
+insert 2039
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1793 5942
+insert 4950
+extractMin
+getMin
+decreaseKey 404 7589
+getMin
+decreaseKey 52 7197
+decreaseKey 1027 4831
+insert 6857
+insert 7231
+getMin
+insert 7464
+getMin
+decreaseKey 571 7398
+extractMin
+getMin
+decreaseKey 2760 2710
+insert 4306
+decreaseKey 1947 8589
+insert 9951
+insert 1659
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4270 6369
+extractMin
+getMin
+getMin
+insert 2073
+insert 2334
+insert 4851
+decreaseKey 766 5917
+decreaseKey 2094 9029
+extractMin
+getMin
+decreaseKey 262 7675
+extractMin
+getMin
+getMin
+decreaseKey 3432 9154
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 3932 8319
+insert 8799
+decreaseKey 1294 2911
+decreaseKey 828 4677
+insert 2367
+decreaseKey 3872 8373
+insert 7885
+getMin
+insert 5647
+decreaseKey 1456 2165
+insert 1713
+decreaseKey 4072 9895
+extractMin
+getMin
+insert 4753
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 280 9647
+decreaseKey 1556 5407
+decreaseKey 2707 7540
+getMin
+insert 5766
+insert 9578
+insert 4197
+decreaseKey 1160 4783
+decreaseKey 4593 3533
+decreaseKey 2527 431
+decreaseKey 3448 7442
+decreaseKey 1147 4034
+insert 4089
+insert 5840
+insert 6001
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2805 7698
+extractMin
+getMin
+insert 1938
+decreaseKey 2416 6113
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 2013 714
+decreaseKey 2948 1460
+extractMin
+getMin
+extractMin
+getMin
+insert 783
+insert 6943
+insert 4913
+decreaseKey 1865 1528
+getMin
+extractMin
+getMin
+decreaseKey 764 1891
+decreaseKey 600 3965
+insert 8349
+insert 6014
+getMin
+decreaseKey 4772 3492
+getMin
+insert 1851
+insert 7861
+decreaseKey 1007 7540
+getMin
+decreaseKey 2197 6591
+insert 95
+getMin
+insert 6205
+extractMin
+getMin
+decreaseKey 3617 1157
+extractMin
+getMin
+getMin
+insert 6042
+insert 1445
+getMin
+insert 9818
+insert 8151
+getMin
+decreaseKey 2201 9855
+insert 7049
+decreaseKey 4274 3949
+decreaseKey 207 7976
+insert 3593
+getMin
+insert 5779
+extractMin
+getMin
+insert 8647
+decreaseKey 4616 4264
+decreaseKey 2660 5663
+extractMin
+getMin
+getMin
+insert 527
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2180 9972
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2571 2649
+getMin
+insert 7622
+decreaseKey 2799 7730
+getMin
+decreaseKey 308 4176
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1211 2986
+decreaseKey 889 1943
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4010 5651
+decreaseKey 4117 3766
+extractMin
+getMin
+getMin
+insert 9382
+insert 489
+decreaseKey 92 942
+getMin
+insert 8008
+getMin
+getMin
+getMin
+getMin
+insert 1388
+getMin
+extractMin
+getMin
+getMin
+insert 1626
+getMin
+decreaseKey 3288 5159
+insert 5182
+getMin
+decreaseKey 1062 3845
+decreaseKey 3137 7750
+insert 2136
+getMin
+insert 4422
+insert 1522
+insert 1156
+extractMin
+getMin
+insert 1280
+decreaseKey 967 8858
+getMin
+insert 5820
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2811 5633
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2402 2259
+extractMin
+getMin
+getMin
+decreaseKey 4422 3643
+insert 2168
+extractMin
+getMin
+insert 4999
+decreaseKey 3097 5226
+decreaseKey 2247 5129
+decreaseKey 1298 2737
+insert 7064
+insert 5989
+insert 7022
+insert 4220
+decreaseKey 3795 2803
+decreaseKey 861 9438
+getMin
+getMin
+getMin
+insert 7260
+getMin
+decreaseKey 2873 5307
+insert 8974
+decreaseKey 3563 7238
+getMin
+getMin
+getMin
+decreaseKey 2433 2213
+extractMin
+getMin
+insert 186
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 3027
+decreaseKey 4524 3652
+decreaseKey 2351 7336
+insert 5019
+getMin
+getMin
+getMin
+decreaseKey 2091 6947
+insert 8408
+insert 3465
+decreaseKey 4723 6690
+insert 9206
+extractMin
+getMin
+getMin
+insert 5217
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4710 6937
+decreaseKey 4441 6087
+insert 8778
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7699
+extractMin
+getMin
+getMin
+getMin
+insert 1169
+getMin
+decreaseKey 3668 3613
+decreaseKey 4118 969
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 907 1470
+extractMin
+getMin
+insert 5438
+extractMin
+getMin
+decreaseKey 4099 6024
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 341 4261
+getMin
+extractMin
+getMin
+insert 6788
+getMin
+extractMin
+getMin
+insert 1599
+getMin
+insert 2841
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 1736
+decreaseKey 2091 5632
+insert 5305
+decreaseKey 989 1553
+decreaseKey 1696 9006
+decreaseKey 1687 4775
+insert 9049
+getMin
+decreaseKey 3445 2805
+getMin
+extractMin
+getMin
+getMin
+insert 9748
+insert 5293
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 2813 7822
+getMin
+decreaseKey 3376 492
+insert 9115
+getMin
+decreaseKey 3866 4734
+insert 9609
+insert 6383
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 5144 1925
+extractMin
+getMin
+insert 985
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 9664
+getMin
+extractMin
+getMin
+decreaseKey 1667 7957
+getMin
+decreaseKey 294 2523
+decreaseKey 1 3153
+insert 1740
+getMin
+insert 5773
+getMin
+decreaseKey 1377 3065
+decreaseKey 3988 9356
+decreaseKey 1937 3446
+insert 1877
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1146 8381
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1975 6597
+insert 3627
+insert 5072
+decreaseKey 1762 8526
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2005 506
+getMin
+insert 3714
+getMin
+insert 655
+getMin
+insert 3426
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7734
+decreaseKey 1445 5168
+insert 8155
+insert 4673
+decreaseKey 2362 7532
+decreaseKey 1456 1137
+decreaseKey 1445 2494
+insert 2593
+extractMin
+getMin
+getMin
+insert 1024
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1935 3355
+insert 8942
+decreaseKey 1192 8333
+decreaseKey 4117 8186
+decreaseKey 2771 2004
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 478 4838
+insert 7910
+insert 7043
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4805
+getMin
+decreaseKey 3420 2359
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2467 3149
+insert 1430
+extractMin
+getMin
+insert 7252
+insert 9462
+insert 590
+getMin
+extractMin
+getMin
+decreaseKey 1192 7703
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 4701 3524
+insert 8088
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1827 9670
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3480 9669
+insert 5610
+insert 1973
+insert 4007
+decreaseKey 3392 263
+insert 8675
+extractMin
+getMin
+insert 2432
+insert 6977
+decreaseKey 1054 5839
+extractMin
+getMin
+decreaseKey 4094 8249
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1624 8571
+decreaseKey 1490 6089
+insert 3646
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 9982
+decreaseKey 4186 4771
+insert 2620
+decreaseKey 769 35
+getMin
+extractMin
+getMin
+decreaseKey 5265 9044
+getMin
+extractMin
+getMin
+insert 4915
+insert 759
+insert 7912
+decreaseKey 294 9997
+decreaseKey 2471 5018
+getMin
+decreaseKey 5120 397
+getMin
+decreaseKey 2032 3859
+insert 1955
+extractMin
+getMin
+insert 2460
+insert 927
+extractMin
+getMin
+insert 8778
+insert 8914
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2513 3478
+extractMin
+getMin
+extractMin
+getMin
+insert 3251
+insert 6955
+insert 7873
+getMin
+insert 5343
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 7174
+getMin
+decreaseKey 1379 4024
+getMin
+decreaseKey 5122 1124
+decreaseKey 2998 4631
+decreaseKey 4687 6857
+decreaseKey 5156 1812
+getMin
+extractMin
+getMin
+decreaseKey 4941 3017
+getMin
+decreaseKey 753 2685
+getMin
+extractMin
+getMin
+decreaseKey 1081 6115
+extractMin
+getMin
+insert 3789
+insert 198
+getMin
+insert 5869
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 71 7686
+extractMin
+getMin
+decreaseKey 1578 899
+decreaseKey 179 8611
+getMin
+extractMin
+getMin
+decreaseKey 705 4036
+insert 6988
+getMin
+decreaseKey 761 263
+decreaseKey 3232 5862
+getMin
+insert 2579
+insert 966
+insert 3851
+extractMin
+getMin
+decreaseKey 4008 5990
+getMin
+insert 7359
+insert 5675
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 221
+decreaseKey 2435 2008
+insert 5384
+insert 1237
+decreaseKey 3785 8381
+getMin
+extractMin
+getMin
+insert 5318
+decreaseKey 1446 4838
+getMin
+insert 3783
+getMin
+insert 4078
+decreaseKey 5263 9365
+decreaseKey 2540 4513
+getMin
+insert 1754
+extractMin
+getMin
+getMin
+insert 519
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2086 8010
+extractMin
+getMin
+insert 6757
+extractMin
+getMin
+insert 6288
+insert 5898
+decreaseKey 731 3128
+extractMin
+getMin
+insert 7463
+getMin
+decreaseKey 1682 9048
+getMin
+decreaseKey 4044 2624
+decreaseKey 3536 7685
+getMin
+extractMin
+getMin
+decreaseKey 4871 527
+extractMin
+getMin
+insert 1704
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3682 3386
+extractMin
+getMin
+decreaseKey 1238 3371
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7459
+insert 4996
+decreaseKey 290 3333
+insert 9358
+getMin
+decreaseKey 4858 6978
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1220 2863
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1494 6337
+extractMin
+getMin
+getMin
+decreaseKey 262 9408
+decreaseKey 2815 4187
+extractMin
+getMin
+insert 6442
+extractMin
+getMin
+insert 451
+insert 7161
+extractMin
+getMin
+getMin
+insert 2696
+insert 5126
+extractMin
+getMin
+decreaseKey 1538 2115
+insert 244
+decreaseKey 2318 3878
+insert 5286
+decreaseKey 3128 8269
+insert 7666
+getMin
+getMin
+decreaseKey 1124 8529
+decreaseKey 919 2799
+decreaseKey 4105 4221
+getMin
+extractMin
+getMin
+decreaseKey 986 8479
+decreaseKey 3317 7635
+decreaseKey 1907 3277
+decreaseKey 22 188
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 6381
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1963 5714
+decreaseKey 1957 7489
+decreaseKey 3333 2078
+extractMin
+getMin
+decreaseKey 1502 6219
+decreaseKey 3837 9760
+getMin
+decreaseKey 2996 6090
+getMin
+getMin
+decreaseKey 3875 8111
+extractMin
+getMin
+insert 252
+insert 1501
+insert 9657
+getMin
+getMin
+decreaseKey 1905 9859
+decreaseKey 4411 9065
+decreaseKey 3025 5210
+decreaseKey 4791 8621
+extractMin
+getMin
+insert 7029
+extractMin
+getMin
+insert 8634
+extractMin
+getMin
+getMin
+getMin
+getMin
+insert 4428
+insert 3214
+extractMin
+getMin
+insert 4058
+decreaseKey 3736 5967
+getMin
+extractMin
+getMin
+decreaseKey 4189 4656
+insert 1597
+getMin
+extractMin
+getMin
+decreaseKey 1029 7273
+getMin
+getMin
+decreaseKey 1689 7492
+decreaseKey 3881 7824
+insert 5559
+decreaseKey 3011 7353
+decreaseKey 3875 8574
+decreaseKey 3616 9271
+decreaseKey 3616 3165
+extractMin
+getMin
+getMin
+getMin
+insert 5665
+decreaseKey 441 6385
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 183 6196
+getMin
+insert 2214
+extractMin
+getMin
+insert 157
+getMin
+insert 6245
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 9355
+decreaseKey 4289 2189
+decreaseKey 1936 2903
+decreaseKey 98 758
+extractMin
+getMin
+insert 816
+getMin
+insert 4659
+decreaseKey 2038 6507
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 3267
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 26
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4118 32
+insert 5422
+decreaseKey 341 7645
+decreaseKey 4306 6124
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1922 3827
+insert 6174
+extractMin
+getMin
+decreaseKey 3872 1578
+insert 1773
+extractMin
+getMin
+getMin
+getMin
+insert 4254
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 432 7256
+getMin
+insert 9944
+getMin
+extractMin
+getMin
+insert 2030
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1412 8593
+decreaseKey 4454 119
+decreaseKey 97 9194
+extractMin
+getMin
+getMin
+insert 6978
+decreaseKey 2238 9222
+decreaseKey 262 8674
+getMin
+decreaseKey 1192 3797
+decreaseKey 830 1998
+getMin
+insert 8747
+insert 3571
+decreaseKey 3651 3403
+decreaseKey 1334 4004
+extractMin
+getMin
+getMin
+getMin
+insert 3685
+getMin
+insert 8202
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 495 5606
+getMin
+getMin
+getMin
+getMin
+insert 1090
+getMin
+extractMin
+getMin
+insert 6804
+insert 8986
+insert 42
+insert 9974
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 664 8267
+insert 6648
+decreaseKey 2593 1669
+insert 2258
+getMin
+decreaseKey 1334 8367
+extractMin
+getMin
+insert 9404
+extractMin
+getMin
+getMin
+decreaseKey 1098 1775
+decreaseKey 2758 5808
+decreaseKey 2091 5812
+insert 3023
+insert 3093
+decreaseKey 1140 1421
+extractMin
+getMin
+insert 3610
+decreaseKey 4891 1240
+extractMin
+getMin
+insert 4921
+getMin
+decreaseKey 1298 8629
+extractMin
+getMin
+insert 1092
+insert 4824
+decreaseKey 1267 2723
+extractMin
+getMin
+getMin
+insert 3341
+getMin
+extractMin
+getMin
+insert 709
+insert 3090
+decreaseKey 2246 5434
+getMin
+insert 7958
+insert 8436
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 4462 4426
+getMin
+insert 9613
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4150 1327
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 2555
+decreaseKey 5463 7840
+insert 5623
+extractMin
+getMin
+decreaseKey 1651 8191
+decreaseKey 1054 6057
+decreaseKey 5038 4201
+getMin
+extractMin
+getMin
+insert 8440
+insert 1908
+extractMin
+getMin
+decreaseKey 1556 2002
+extractMin
+getMin
+extractMin
+getMin
+insert 7811
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 8644
+getMin
+decreaseKey 2372 1467
+extractMin
+getMin
+decreaseKey 5379 5970
+getMin
+insert 4261
+insert 9028
+insert 7100
+decreaseKey 2173 6885
+extractMin
+getMin
+getMin
+insert 1658
+decreaseKey 3168 5191
+extractMin
+getMin
+insert 8903
+getMin
+extractMin
+getMin
+insert 372
+decreaseKey 5297 794
+extractMin
+getMin
+insert 9271
+insert 2425
+decreaseKey 3455 155
+extractMin
+getMin
+extractMin
+getMin
+insert 399
+decreaseKey 3333 5306
+decreaseKey 2840 2462
+extractMin
+getMin
+insert 9762
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4605 9645
+decreaseKey 1013 3393
+decreaseKey 294 6759
+insert 3183
+decreaseKey 5618 2038
+insert 6441
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 498 5048
+decreaseKey 3468 3675
+getMin
+decreaseKey 4719 5534
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 9944
+insert 5742
+extractMin
+getMin
+decreaseKey 3196 7390
+decreaseKey 183 820
+extractMin
+getMin
+insert 6355
+getMin
+getMin
+insert 127
+insert 9514
+insert 8916
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 5628
+getMin
+extractMin
+getMin
+insert 7031
+getMin
+decreaseKey 4356 847
+getMin
+extractMin
+getMin
+decreaseKey 1065 4282
+getMin
+decreaseKey 2965 2443
+extractMin
+getMin
+decreaseKey 2828 6131
+decreaseKey 5068 437
+extractMin
+getMin
+insert 8102
+decreaseKey 5735 3824
+extractMin
+getMin
+insert 9690
+decreaseKey 4073 4735
+extractMin
+getMin
+insert 2114
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3625 1112
+decreaseKey 4971 3454
+decreaseKey 4178 2195
+decreaseKey 4281 262
+insert 7900
+getMin
+insert 6689
+extractMin
+getMin
+insert 6137
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 825 645
+extractMin
+getMin
+insert 4919
+extractMin
+getMin
+getMin
+getMin
+insert 1830
+insert 9104
+getMin
+extractMin
+getMin
+getMin
+insert 4541
+decreaseKey 2873 6000
+getMin
+getMin
+insert 4272
+insert 5098
+extractMin
+getMin
+insert 9872
+extractMin
+getMin
+getMin
+decreaseKey 40 4557
+extractMin
+getMin
+insert 2537
+insert 1109
+decreaseKey 3667 7818
+decreaseKey 4045 8481
+insert 7844
+insert 4999
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1615 4453
+getMin
+getMin
+getMin
+getMin
+insert 6107
+insert 8328
+decreaseKey 4325 869
+decreaseKey 1032 6514
+decreaseKey 1489 8036
+decreaseKey 478 7747
+decreaseKey 946 5657
+extractMin
+getMin
+extractMin
+getMin
+insert 2236
+decreaseKey 773 7515
+insert 290
+decreaseKey 1227 9115
+getMin
+decreaseKey 5372 4431
+insert 7526
+getMin
+decreaseKey 2164 1236
+insert 7181
+decreaseKey 5500 8249
+decreaseKey 5531 7675
+decreaseKey 1998 6990
+extractMin
+getMin
+getMin
+decreaseKey 3590 107
+decreaseKey 3197 4984
+decreaseKey 1647 5120
+insert 8568
+decreaseKey 1169 1113
+decreaseKey 4693 7561
+decreaseKey 4246 807
+insert 6755
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 5676 9091
+extractMin
+getMin
+decreaseKey 3344 1906
+extractMin
+getMin
+insert 8079
+getMin
+getMin
+insert 429
+extractMin
+getMin
+insert 3437
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 2828 3751
+extractMin
+getMin
+insert 9345
+insert 4239
+extractMin
+getMin
+decreaseKey 4731 4311
+insert 3342
+extractMin
+getMin
+getMin
+getMin
+insert 4782
+extractMin
+getMin
+getMin
+insert 9234
+decreaseKey 3713 9137
+decreaseKey 1515 1183
+decreaseKey 3660 4995
+getMin
+decreaseKey 3837 6078
+insert 5002
+decreaseKey 3168 4926
+insert 4386
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 4624 6302
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 2623
+insert 2808
+extractMin
+getMin
+insert 789
+decreaseKey 4715 2822
+getMin
+decreaseKey 3005 5011
+decreaseKey 4165 9328
+insert 8584
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 4041 9513
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 9583
+decreaseKey 3809 632
+extractMin
+getMin
+getMin
+decreaseKey 3442 9861
+decreaseKey 3898 9427
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 5861 8039
+insert 9994
+insert 5599
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4819 805
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3988 3756
+decreaseKey 4632 7149
+decreaseKey 400 2766
+decreaseKey 2268 9551
+getMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 4346 4947
+getMin
+decreaseKey 799 2608
+decreaseKey 11 6416
+extractMin
+getMin
+decreaseKey 3702 4397
+extractMin
+getMin
+getMin
+getMin
+insert 5155
+getMin
+insert 5466
+insert 9003
+getMin
+insert 9312
+insert 9157
+decreaseKey 5824 8416
+decreaseKey 5548 2879
+getMin
+getMin
+decreaseKey 4094 5469
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1085 3619
+getMin
+decreaseKey 1484 2522
+getMin
+getMin
+decreaseKey 2613 1566
+getMin
+insert 5914
+insert 7589
+extractMin
+getMin
+decreaseKey 3442 5262
+insert 3693
+insert 3618
+getMin
+extractMin
+getMin
+decreaseKey 3196 5696
+extractMin
+getMin
+insert 4026
+decreaseKey 5624 1520
+getMin
+getMin
+getMin
+getMin
+decreaseKey 2709 6362
+getMin
+decreaseKey 271 8481
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 8094
+decreaseKey 5515 1498
+extractMin
+getMin
+decreaseKey 5984 1198
+decreaseKey 4944 1839
+extractMin
+getMin
+getMin
+insert 2189
+insert 5612
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2251 3513
+getMin
+getMin
+insert 4625
+insert 7618
+extractMin
+getMin
+getMin
+decreaseKey 1348 4909
+insert 781
+extractMin
+getMin
+insert 7164
+getMin
+insert 581
+decreaseKey 791 4842
+decreaseKey 203 2847
+insert 5964
+extractMin
+getMin
+getMin
+insert 6554
+insert 1995
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 5194
+getMin
+decreaseKey 3685 8752
+decreaseKey 1687 8920
+extractMin
+getMin
+decreaseKey 5206 5984
+getMin
+insert 6220
+insert 3526
+decreaseKey 326 5082
+decreaseKey 3049 6978
+extractMin
+getMin
+decreaseKey 4604 785
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 1257
+decreaseKey 2659 3608
+getMin
+insert 1466
+decreaseKey 343 1712
+insert 3669
+extractMin
+getMin
+getMin
+decreaseKey 3394 5342
+decreaseKey 1939 2454
+getMin
+decreaseKey 1413 9641
+extractMin
+getMin
+decreaseKey 1412 4261
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1671 7482
+extractMin
+getMin
+decreaseKey 1060 8515
+decreaseKey 769 1649
+decreaseKey 769 2086
+insert 8593
+decreaseKey 4376 3802
+decreaseKey 4456 4423
+getMin
+extractMin
+getMin
+getMin
+insert 1317
+getMin
+decreaseKey 5373 3861
+insert 34
+insert 4266
+insert 3700
+insert 1290
+extractMin
+getMin
+insert 2369
+getMin
+decreaseKey 2968 8830
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1955 9700
+insert 3232
+insert 6037
+getMin
+decreaseKey 4632 1648
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 7577
+insert 904
+extractMin
+getMin
+decreaseKey 280 1641
+insert 9391
+decreaseKey 1945 9855
+extractMin
+getMin
+decreaseKey 4951 6008
+decreaseKey 3550 3385
+getMin
+decreaseKey 1955 8614
+insert 8913
+decreaseKey 4057 9197
+getMin
+getMin
+insert 4813
+insert 5683
+decreaseKey 1740 9917
+insert 6237
+insert 3633
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1692
+insert 5869
+decreaseKey 77 5682
+getMin
+insert 1283
+getMin
+getMin
+insert 2566
+insert 4362
+insert 8612
+getMin
+decreaseKey 4231 6201
+getMin
+extractMin
+getMin
+insert 4794
+getMin
+getMin
+extractMin
+getMin
+insert 2812
+insert 9725
+insert 7937
+decreaseKey 4115 4761
+getMin
+extractMin
+getMin
+insert 5025
+getMin
+getMin
+getMin
+decreaseKey 4253 2425
+insert 878
+insert 2838
+getMin
+decreaseKey 2246 4998
+getMin
+decreaseKey 5156 9511
+insert 5323
+getMin
+extractMin
+getMin
+decreaseKey 3347 6271
+extractMin
+getMin
+decreaseKey 6174 7178
+decreaseKey 3429 7927
+getMin
+extractMin
+getMin
+insert 8964
+decreaseKey 2379 290
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4186 19
+getMin
+insert 8486
+getMin
+decreaseKey 2728 5510
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 1697 9974
+extractMin
+getMin
+getMin
+decreaseKey 3977 1897
+insert 6187
+extractMin
+getMin
+getMin
+decreaseKey 285 6742
+decreaseKey 1844 4135
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4339 3417
+insert 1063
+decreaseKey 1943 9600
+extractMin
+getMin
+insert 9002
+getMin
+insert 3224
+getMin
+insert 1465
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4289 3950
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 292 3508
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1034 6492
+extractMin
+getMin
+insert 1859
+decreaseKey 1286 2658
+insert 5110
+insert 3308
+getMin
+decreaseKey 6206 1167
+getMin
+decreaseKey 959 9149
+extractMin
+getMin
+getMin
+decreaseKey 2338 8611
+decreaseKey 1387 9460
+extractMin
+getMin
+decreaseKey 217 4924
+decreaseKey 6017 6840
+decreaseKey 1196 33
+insert 4118
+decreaseKey 3049 6846
+decreaseKey 2102 7589
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 9091
+decreaseKey 3826 6020
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 6264 9719
+insert 1536
+decreaseKey 4446 816
+insert 2627
+extractMin
+getMin
+decreaseKey 1212 5564
+insert 5497
+decreaseKey 2091 5695
+extractMin
+getMin
+getMin
+getMin
+insert 906
+getMin
+extractMin
+getMin
+decreaseKey 3916 2964
+decreaseKey 1999 3569
+decreaseKey 2338 9730
+insert 9625
+extractMin
+getMin
+decreaseKey 2268 1149
+extractMin
+getMin
+decreaseKey 290 4836
+getMin
+getMin
+insert 6002
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 9453
+extractMin
+getMin
+getMin
+insert 1196
+decreaseKey 533 498
+getMin
+insert 4447
+extractMin
+getMin
+insert 7800
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 5237
+extractMin
+getMin
+insert 3181
+getMin
+insert 7788
+insert 2908
+decreaseKey 1907 9265
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1447 9397
+insert 2888
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4897
+decreaseKey 5140 6496
+decreaseKey 5367 8936
+getMin
+decreaseKey 3976 5580
+decreaseKey 3068 2384
+decreaseKey 1381 884
+insert 2589
+decreaseKey 1994 9849
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 6068 1819
+extractMin
+getMin
+getMin
+insert 8724
+extractMin
+getMin
+getMin
+decreaseKey 3689 2368
+insert 4923
+getMin
+insert 9311
+decreaseKey 1811 9688
+decreaseKey 1511 4539
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2831 3608
+extractMin
+getMin
+extractMin
+getMin
+insert 4696
+decreaseKey 4624 9764
+getMin
+getMin
+getMin
+decreaseKey 1431 241
+getMin
+getMin
+insert 3727
+decreaseKey 3638 8892
+decreaseKey 63 7971
+extractMin
+getMin
+decreaseKey 4298 4462
+decreaseKey 1826 6626
+extractMin
+getMin
+decreaseKey 1922 6372
+getMin
+insert 8393
+decreaseKey 4960 3123
+decreaseKey 5122 9548
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 118 6014
+getMin
+insert 8338
+extractMin
+getMin
+insert 4339
+extractMin
+getMin
+extractMin
+getMin
+insert 1826
+getMin
+insert 4467
+decreaseKey 2397 5168
+insert 6622
+getMin
+extractMin
+getMin
+insert 8944
+decreaseKey 5711 1997
+decreaseKey 2091 3131
+extractMin
+getMin
+insert 3115
+extractMin
+getMin
+insert 3793
+extractMin
+getMin
+extractMin
+getMin
+insert 9313
+getMin
+getMin
+insert 6434
+decreaseKey 3403 6907
+getMin
+extractMin
+getMin
+decreaseKey 4428 5084
+extractMin
+getMin
+insert 8616
+decreaseKey 52 9169
+insert 3543
+insert 7899
+extractMin
+getMin
+extractMin
+getMin
+insert 1629
+getMin
+decreaseKey 5308 9267
+decreaseKey 6075 9626
+insert 4720
+extractMin
+getMin
+insert 8180
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2229 4310
+extractMin
+getMin
+decreaseKey 2686 9083
+getMin
+decreaseKey 1464 8314
+getMin
+decreaseKey 1443 7985
+getMin
+decreaseKey 2758 7110
+decreaseKey 4238 2858
+getMin
+extractMin
+getMin
+insert 1700
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 8925
+insert 813
+decreaseKey 757 4159
+extractMin
+getMin
+decreaseKey 4623 8325
+insert 9087
+insert 4655
+extractMin
+getMin
+decreaseKey 3938 8625
+decreaseKey 1428 9963
+getMin
+decreaseKey 1348 676
+extractMin
+getMin
+getMin
+decreaseKey 1865 1226
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 7791
+getMin
+decreaseKey 1334 945
+extractMin
+getMin
+extractMin
+getMin
+insert 7679
+insert 9042
+insert 815
+getMin
+insert 3910
+extractMin
+getMin
+extractMin
+getMin
+insert 4129
+decreaseKey 1169 7167
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 5194
+decreaseKey 4745 6529
+decreaseKey 4960 6943
+insert 5261
+decreaseKey 5035 9822
+getMin
+decreaseKey 817 834
+decreaseKey 2338 7933
+getMin
+decreaseKey 2593 1052
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 3493 3217
+decreaseKey 400 729
+insert 1718
+decreaseKey 4467 905
+getMin
+decreaseKey 3306 5720
+insert 4922
+extractMin
+getMin
+extractMin
+getMin
+insert 4910
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1671 4445
+insert 2938
+extractMin
+getMin
+insert 3785
+insert 9297
+extractMin
+getMin
+decreaseKey 1515 526
+extractMin
+getMin
+getMin
+decreaseKey 396 9960
+getMin
+insert 4024
+insert 5483
+extractMin
+getMin
+extractMin
+getMin
+insert 8173
+decreaseKey 1994 9043
+decreaseKey 1707 6517
+decreaseKey 5393 1731
+insert 7686
+decreaseKey 1696 4680
+decreaseKey 812 6177
+decreaseKey 4777 7433
+decreaseKey 3921 1962
+getMin
+getMin
+decreaseKey 5731 34
+getMin
+decreaseKey 5434 4262
+insert 5166
+extractMin
+getMin
+insert 2723
+extractMin
+getMin
+insert 4639
+getMin
+insert 9778
+decreaseKey 84 1005
+decreaseKey 3453 1970
+insert 2107
+getMin
+decreaseKey 2473 7437
+decreaseKey 4627 5635
+decreaseKey 1531 5848
+insert 1883
+extractMin
+getMin
+decreaseKey 3206 7747
+insert 3
+getMin
+decreaseKey 2543 9453
+insert 5085
+decreaseKey 5206 1646
+insert 1523
+decreaseKey 4377 8277
+decreaseKey 3689 5513
+insert 2313
+extractMin
+getMin
+decreaseKey 845 4883
+getMin
+decreaseKey 1585 5126
+extractMin
+getMin
+decreaseKey 40 2838
+insert 5620
+insert 9248
+insert 4808
+decreaseKey 5367 6326
+decreaseKey 5956 932
+getMin
+insert 1456
+getMin
+decreaseKey 4823 758
+insert 5481
+getMin
+decreaseKey 341 6968
+extractMin
+getMin
+extractMin
+getMin
+insert 2317
+insert 6050
+getMin
+insert 3936
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 770 9097
+getMin
+decreaseKey 6536 9521
+extractMin
+getMin
+decreaseKey 6145 3976
+getMin
+getMin
+decreaseKey 991 6946
+decreaseKey 6015 1193
+getMin
+getMin
+decreaseKey 2177 1923
+decreaseKey 5114 2361
+decreaseKey 4753 521
+insert 3126
+insert 1662
+insert 7590
+decreaseKey 3785 9547
+getMin
+extractMin
+getMin
+decreaseKey 1379 6584
+insert 4529
+extractMin
+getMin
+decreaseKey 5531 4553
+getMin
+decreaseKey 639 6192
+getMin
+insert 9970
+getMin
+extractMin
+getMin
+insert 4756
+extractMin
+getMin
+insert 6976
+insert 489
+extractMin
+getMin
+insert 6394
+decreaseKey 6312 330
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 2178 6012
+insert 9359
+getMin
+getMin
+getMin
+decreaseKey 5814 9144
+getMin
+insert 6843
+decreaseKey 849 1280
+insert 5515
+decreaseKey 6436 4896
+decreaseKey 6655 1270
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 705 6670
+insert 9169
+insert 3990
+decreaseKey 109 2093
+decreaseKey 6102 8596
+insert 6953
+extractMin
+getMin
+getMin
+decreaseKey 2979 7894
+getMin
+decreaseKey 3072 2576
+insert 1507
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 6455
+getMin
+insert 730
+decreaseKey 3944 8228
+getMin
+getMin
+getMin
+decreaseKey 6588 5435
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 8956
+decreaseKey 3055 8351
+getMin
+insert 6214
+insert 6895
+insert 7384
+decreaseKey 5265 6466
+getMin
+insert 4027
+insert 7179
+decreaseKey 5297 6598
+decreaseKey 5405 8426
+insert 2302
+insert 2894
+decreaseKey 5063 1343
+decreaseKey 2910 1245
+extractMin
+getMin
+insert 9708
+decreaseKey 4339 4244
+insert 618
+extractMin
+getMin
+extractMin
+getMin
+insert 9816
+extractMin
+getMin
+decreaseKey 5573 7174
+decreaseKey 203 334
+insert 1448
+decreaseKey 5835 8633
+insert 5064
+insert 6821
+getMin
+extractMin
+getMin
+getMin
+insert 1334
+getMin
+decreaseKey 5933 4039
+insert 1923
+decreaseKey 6045 9393
+insert 9389
+insert 4921
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 600 5571
+decreaseKey 4487 6134
+decreaseKey 5346 1539
+extractMin
+getMin
+getMin
+decreaseKey 6429 7012
+getMin
+insert 1656
+extractMin
+getMin
+decreaseKey 5372 3935
+getMin
+insert 4554
+getMin
+decreaseKey 3526 5091
+decreaseKey 4745 8945
+insert 6187
+extractMin
+getMin
+insert 5871
+decreaseKey 4010 706
+decreaseKey 4045 3064
+insert 4030
+decreaseKey 2926 399
+extractMin
+getMin
+decreaseKey 2180 8452
+extractMin
+getMin
+extractMin
+getMin
+insert 5622
+extractMin
+getMin
+getMin
+insert 2844
+extractMin
+getMin
+insert 2651
+extractMin
+getMin
+decreaseKey 2062 7463
+extractMin
+getMin
+getMin
+insert 5289
+extractMin
+getMin
+decreaseKey 6075 226
+insert 3091
+insert 3624
+extractMin
+getMin
+insert 4359
+decreaseKey 963 279
+getMin
+extractMin
+getMin
+insert 3509
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 620 8678
+getMin
+getMin
+getMin
+getMin
+getMin
+insert 4265
+decreaseKey 292 3592
+getMin
+getMin
+decreaseKey 5267 373
+extractMin
+getMin
+decreaseKey 4857 5640
+decreaseKey 2362 7146
+decreaseKey 578 1860
+insert 5682
+decreaseKey 1378 8455
+extractMin
+getMin
+insert 4174
+getMin
+insert 6877
+extractMin
+getMin
+getMin
+decreaseKey 2269 6953
+decreaseKey 2811 8
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 8069
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 4670 3077
+insert 3248
+insert 8368
+extractMin
+getMin
+extractMin
+getMin
+insert 3556
+insert 12
+getMin
+insert 5242
+decreaseKey 5453 6186
+decreaseKey 3945 4826
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 2814 8948
+decreaseKey 5749 1292
+decreaseKey 1456 139
+insert 9791
+insert 9572
+extractMin
+getMin
+getMin
+insert 7785
+extractMin
+getMin
+extractMin
+getMin
+insert 5257
+insert 9079
+extractMin
+getMin
+decreaseKey 2977 4402
+insert 3217
+extractMin
+getMin
+decreaseKey 4515 8259
+insert 829
+decreaseKey 4165 1092
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 5512
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 4092 1945
+decreaseKey 5029 2953
+getMin
+decreaseKey 3212 8683
+decreaseKey 3549 2541
+decreaseKey 1033 4021
+extractMin
+getMin
+decreaseKey 5664 4952
+getMin
+decreaseKey 799 5043
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 6404 9778
+extractMin
+getMin
+decreaseKey 6163 5547
+insert 3169
+decreaseKey 1147 6953
+extractMin
+getMin
+extractMin
+getMin
+insert 5390
+decreaseKey 3200 6302
+getMin
+extractMin
+getMin
+insert 9376
+insert 4158
+extractMin
+getMin
+insert 554
+insert 1738
+getMin
+insert 8178
+insert 5080
+insert 7287
+decreaseKey 5373 770
+decreaseKey 2079 4123
+insert 4027
+decreaseKey 4499 2034
+getMin
+decreaseKey 1321 6150
+getMin
+getMin
+decreaseKey 5463 1155
+decreaseKey 5089 4858
+insert 9730
+getMin
+getMin
+extractMin
+getMin
+insert 8836
+insert 6708
+decreaseKey 1603 729
+decreaseKey 4936 3688
+decreaseKey 3485 9217
+decreaseKey 3921 8577
+decreaseKey 5518 7922
+extractMin
+getMin
+decreaseKey 1396 4238
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 4130 5748
+getMin
+insert 4342
+getMin
+decreaseKey 6142 4681
+decreaseKey 1529 7343
+insert 8594
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 404 6215
+getMin
+decreaseKey 6222 8348
+decreaseKey 5779 662
+insert 4195
+insert 3967
+getMin
+decreaseKey 861 7903
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 5408 6217
+extractMin
+getMin
+getMin
+insert 6308
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 4029 3638
+insert 7176
+extractMin
+getMin
+decreaseKey 2880 9880
+insert 8897
+decreaseKey 287 172
+getMin
+insert 3297
+decreaseKey 1455 2017
+getMin
+insert 7322
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 372 1233
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2572 3711
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 425 6170
+getMin
+getMin
+insert 420
+getMin
+insert 5296
+getMin
+decreaseKey 5038 6745
+insert 2175
+getMin
+decreaseKey 2467 7145
+extractMin
+getMin
+decreaseKey 111 267
+extractMin
+getMin
+extractMin
+getMin
+insert 8095
+insert 8048
+getMin
+extractMin
+getMin
+insert 8526
+getMin
+decreaseKey 5368 8636
+getMin
+insert 1789
+getMin
+insert 9087
+insert 4186
+getMin
+insert 9993
+insert 874
+decreaseKey 6993 9174
+insert 2965
+getMin
+extractMin
+getMin
+getMin
+insert 6199
+decreaseKey 4544 9346
+getMin
+extractMin
+getMin
+decreaseKey 1054 3023
+extractMin
+getMin
+decreaseKey 4876 1491
+extractMin
+getMin
+decreaseKey 5958 2578
+extractMin
+getMin
+decreaseKey 2571 1743
+getMin
+decreaseKey 769 2088
+decreaseKey 3837 4213
+extractMin
+getMin
+insert 8215
+extractMin
+getMin
+insert 6124
+decreaseKey 2366 2622
+getMin
+insert 9352
+getMin
+decreaseKey 6839 9892
+getMin
+extractMin
+getMin
+decreaseKey 6018 6121
+decreaseKey 2496 2615
+getMin
+decreaseKey 3317 2087
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1578 588
+decreaseKey 2568 3768
+insert 2618
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1381 8337
+insert 4500
+insert 8613
+getMin
+getMin
+getMin
+insert 4745
+getMin
+insert 1437
+extractMin
+getMin
+insert 5784
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2698 4911
+getMin
+getMin
+getMin
+decreaseKey 6079 8598
+getMin
+extractMin
+getMin
+decreaseKey 514 7563
+decreaseKey 6533 7029
+insert 9408
+getMin
+extractMin
+getMin
+decreaseKey 4620 9012
+decreaseKey 3161 9035
+insert 3058
+decreaseKey 6626 2339
+decreaseKey 2219 7224
+getMin
+getMin
+insert 3706
+extractMin
+getMin
+getMin
+decreaseKey 5170 167
+extractMin
+getMin
+getMin
+decreaseKey 1975 9323
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4859 8642
+insert 1945
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 3984
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 5434 2836
+insert 8667
+getMin
+decreaseKey 4918 5984
+insert 146
+extractMin
+getMin
+getMin
+decreaseKey 5589 2
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 4518 6852
+insert 7556
+decreaseKey 6434 3378
+insert 4321
+insert 1429
+insert 7810
+decreaseKey 6886 4904
+insert 4191
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 3243
+getMin
+insert 6308
+insert 7625
+insert 9861
+getMin
+getMin
+decreaseKey 1143 4294
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 419 5182
+insert 9770
+decreaseKey 3423 7320
+getMin
+extractMin
+getMin
+decreaseKey 855 4573
+getMin
+getMin
+getMin
+getMin
+decreaseKey 5702 2100
+getMin
+getMin
+getMin
+insert 4392
+getMin
+getMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 9809
+getMin
+extractMin
+getMin
+insert 746
+decreaseKey 3679 3040
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 3196 9153
+insert 2888
+decreaseKey 5377 859
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 8021
+insert 8463
+insert 7234
+extractMin
+getMin
+extractMin
+getMin
+insert 995
+insert 7057
+getMin
+extractMin
+getMin
+decreaseKey 3875 4148
+getMin
+decreaseKey 1152 8090
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7402
+decreaseKey 738 6131
+getMin
+extractMin
+getMin
+insert 1923
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 8834
+insert 4562
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2460 8131
+decreaseKey 466 6258
+getMin
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 2366 6355
+extractMin
+getMin
+decreaseKey 5063 3642
+insert 4056
+insert 4748
+insert 8182
+decreaseKey 2587 5881
+insert 2246
+extractMin
+getMin
+decreaseKey 401 9226
+decreaseKey 1341 7569
+extractMin
+getMin
+getMin
+decreaseKey 341 2341
+getMin
+extractMin
+getMin
+decreaseKey 1794 9604
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 5054
+extractMin
+getMin
+extractMin
+getMin
+insert 1368
+insert 1442
+insert 1344
+decreaseKey 5554 5043
+getMin
+decreaseKey 3403 1914
+decreaseKey 2164 3475
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 4367 4176
+extractMin
+getMin
+decreaseKey 98 5278
+getMin
+extractMin
+getMin
+decreaseKey 610 4153
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 6729 434
+decreaseKey 3114 4950
+extractMin
+getMin
+insert 9097
+decreaseKey 6453 20
+extractMin
+getMin
+extractMin
+getMin
+insert 9186
+decreaseKey 6431 4585
+decreaseKey 7013 1196
+getMin
+getMin
+extractMin
+getMin
+insert 7002
+insert 8374
+extractMin
+getMin
+extractMin
+getMin
+insert 9779
+getMin
+insert 4585
+insert 4867
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 369
+insert 2207
+decreaseKey 917 7454
+getMin
+decreaseKey 1375 6749
+decreaseKey 5704 1799
+extractMin
+getMin
+decreaseKey 5661 7549
+getMin
+insert 2449
+extractMin
+getMin
+insert 9107
+insert 6613
+decreaseKey 4253 3551
+getMin
+insert 6390
+getMin
+decreaseKey 1576 5615
+insert 138
+insert 3425
+getMin
+decreaseKey 83 5566
+decreaseKey 829 9077
+getMin
+insert 847
+getMin
+extractMin
+getMin
+getMin
+insert 8149
+decreaseKey 6116 5054
+decreaseKey 4411 6985
+getMin
+decreaseKey 1923 4932
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7757
+extractMin
+getMin
+insert 9839
+decreaseKey 1584 2315
+getMin
+getMin
+decreaseKey 2004 4765
+decreaseKey 5068 8028
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 5684
+extractMin
+getMin
+getMin
+decreaseKey 6594 4604
+getMin
+extractMin
+getMin
+insert 3728
+getMin
+decreaseKey 1060 1008
+getMin
+getMin
+decreaseKey 7365 2162
+extractMin
+getMin
+getMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 3145 2778
+extractMin
+getMin
+extractMin
+getMin
+insert 8420
+decreaseKey 3493 4364
+decreaseKey 1581 314
+extractMin
+getMin
+insert 4473
+extractMin
+getMin
+extractMin
+getMin
+insert 6998
+getMin
+insert 928
+decreaseKey 6089 4011
+insert 9769
+decreaseKey 6786 8542
+extractMin
+getMin
+extractMin
+getMin
+insert 8054
+getMin
+decreaseKey 2351 143
+insert 8444
+decreaseKey 1970 8728
+decreaseKey 3856 8297
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 6631
+insert 6024
+extractMin
+getMin
+decreaseKey 1557 9075
+decreaseKey 294 1765
+extractMin
+getMin
+insert 2617
+insert 4113
+getMin
+insert 7382
+insert 1289
+decreaseKey 3114 5898
+extractMin
+getMin
+getMin
+decreaseKey 334 3551
+decreaseKey 4627 6569
+getMin
+decreaseKey 2124 1679
+insert 8051
+getMin
+decreaseKey 4309 5414
+getMin
+decreaseKey 6394 7550
+getMin
+extractMin
+getMin
+insert 5222
+extractMin
+getMin
+extractMin
+getMin
+insert 658
+extractMin
+getMin
+insert 2031
+insert 5242
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1945 5352
+insert 6807
+getMin
+insert 260
+insert 6504
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 5761 8174
+extractMin
+getMin
+extractMin
+getMin
+insert 6198
+decreaseKey 1767 4216
+insert 1379
+extractMin
+getMin
+decreaseKey 3421 8804
+decreaseKey 7401 8542
+getMin
+getMin
+getMin
+decreaseKey 6945 5841
+insert 7320
+extractMin
+getMin
+decreaseKey 1220 1438
+getMin
+extractMin
+getMin
+insert 5383
+insert 9384
+insert 9555
+insert 8875
+insert 4128
+insert 9525
+insert 4763
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 4041 714
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 7376 4596
+decreaseKey 285 9146
+decreaseKey 7459 1076
+decreaseKey 1431 4234
+getMin
+insert 8112
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 466 5163
+insert 4173
+getMin
+extractMin
+getMin
+getMin
+insert 9384
+insert 8990
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 3971 5416
+extractMin
+getMin
+insert 1065
+decreaseKey 5199 8540
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 3945
+insert 976
+getMin
+insert 2597
+getMin
+insert 2631
+insert 9791
+getMin
+insert 5856
+decreaseKey 3390 7846
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 7131 7255
+decreaseKey 6834 3455
+extractMin
+getMin
+insert 4350
+decreaseKey 3344 2458
+insert 1694
+insert 8374
+getMin
+insert 5664
+insert 2994
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1398
+extractMin
+getMin
+insert 4188
+extractMin
+getMin
+extractMin
+getMin
+insert 23
+decreaseKey 4840 237
+getMin
+insert 9007
+extractMin
+getMin
+getMin
+decreaseKey 3264 5577
+insert 839
+decreaseKey 2201 6031
+extractMin
+getMin
+decreaseKey 5191 6998
+insert 8729
+extractMin
+getMin
+decreaseKey 6257 94
+insert 6440
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2466 6181
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 5955 1702
+decreaseKey 2832 2099
+decreaseKey 1794 2719
+getMin
+getMin
+decreaseKey 3417 7663
+getMin
+decreaseKey 2968 7430
+decreaseKey 6560 2035
+decreaseKey 685 4354
+extractMin
+getMin
+getMin
+insert 9680
+getMin
+insert 5319
+getMin
+extractMin
+getMin
+getMin
+insert 3920
+insert 9034
+decreaseKey 7526 9701
+insert 1171
+extractMin
+getMin
+getMin
+decreaseKey 5288 9983
+extractMin
+getMin
+decreaseKey 1200 6518
+extractMin
+getMin
+decreaseKey 4105 6770
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 6237 4571
+insert 2093
+decreaseKey 7084 5380
+extractMin
+getMin
+insert 1064
+insert 6621
+insert 9806
+getMin
+extractMin
+getMin
+decreaseKey 1240 5504
+extractMin
+getMin
+insert 5580
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 5539 4130
+decreaseKey 1031 7368
+insert 8152
+decreaseKey 6983 5625
+getMin
+getMin
+insert 6438
+insert 3833
+extractMin
+getMin
+getMin
+decreaseKey 3271 643
+decreaseKey 1121 7742
+decreaseKey 738 1836
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 6678
+decreaseKey 202 1057
+getMin
+getMin
+insert 5013
+insert 833
+insert 9608
+insert 7067
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1808 2921
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 5455 7674
+getMin
+getMin
+decreaseKey 3423 9497
+getMin
+decreaseKey 5156 1223
+decreaseKey 6780 2004
+decreaseKey 524 5296
+decreaseKey 6358 9027
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 2054 8389
+decreaseKey 4843 6640
+insert 2126
+extractMin
+getMin
+insert 6056
+decreaseKey 1075 3897
+decreaseKey 3404 3995
+extractMin
+getMin
+decreaseKey 5860 7575
+insert 6447
+insert 5088
+extractMin
+getMin
+insert 7067
+extractMin
+getMin
+getMin
+decreaseKey 5691 4733
+decreaseKey 4397 3632
+decreaseKey 4960 2033
+decreaseKey 1168 5464
+getMin
+insert 2624
+insert 5668
+extractMin
+getMin
+getMin
+decreaseKey 6667 6162
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 8552
+insert 7182
+decreaseKey 4568 9354
+getMin
+getMin
+insert 2947
+extractMin
+getMin
+decreaseKey 1513 8288
+extractMin
+getMin
+insert 1211
+decreaseKey 5942 2506
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+getMin
+insert 4857
+decreaseKey 4102 3200
+decreaseKey 4840 9743
+decreaseKey 4843 9704
+insert 6191
+extractMin
+getMin
+insert 3511
+decreaseKey 4632 7811
+extractMin
+getMin
+decreaseKey 285 2991
+insert 9862
+insert 1119
+insert 8276
+extractMin
+getMin
+insert 2378
+getMin
+insert 9858
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 4604 6002
+getMin
+decreaseKey 4334 8472
+insert 692
+getMin
+getMin
+insert 4110
+extractMin
+getMin
+insert 7515
+insert 9740
+getMin
+getMin
+insert 991
+extractMin
+getMin
+insert 9651
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 6041
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2379 5396
+insert 7527
+decreaseKey 21 1093
+decreaseKey 3065 6897
+insert 3937
+getMin
+decreaseKey 1935 8824
+getMin
+decreaseKey 3025 1807
+extractMin
+getMin
+insert 9625
+getMin
+getMin
+insert 6339
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 2277
+extractMin
+getMin
+getMin
+insert 7905
+getMin
+decreaseKey 4916 973
+getMin
+insert 2399
+insert 7364
+getMin
+insert 4356
+decreaseKey 4095 4580
+insert 3964
+getMin
+decreaseKey 1098 1000
+decreaseKey 5515 2398
+decreaseKey 5745 6989
+getMin
+insert 1582
+insert 8902
+extractMin
+getMin
+decreaseKey 1684 2682
+insert 6529
+decreaseKey 5319 1120
+insert 3991
+insert 3050
+getMin
+extractMin
+getMin
+insert 3786
+decreaseKey 2667 5741
+insert 9278
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 6147
+getMin
+insert 9092
+getMin
+getMin
+insert 4788
+getMin
+extractMin
+getMin
+decreaseKey 5835 8944
+decreaseKey 1282 1404
+decreaseKey 477 9556
+insert 2634
+decreaseKey 2076 313
+insert 957
+getMin
+decreaseKey 4951 735
+insert 657
+decreaseKey 5089 9518
+insert 8860
+getMin
+getMin
+extractMin
+getMin
+insert 4668
+insert 4210
+decreaseKey 4971 724
+extractMin
+getMin
+insert 1538
+decreaseKey 7170 6421
+insert 3019
+extractMin
+getMin
+insert 4385
+getMin
+getMin
+getMin
+getMin
+decreaseKey 21 9227
+insert 1538
+getMin
+insert 5840
+getMin
+getMin
+insert 908
+insert 2051
+insert 1017
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 652
+decreaseKey 6964 6577
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3114 318
+decreaseKey 5191 6236
+decreaseKey 1220 450
+decreaseKey 4607 824
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 7559 1620
+insert 1465
+getMin
+insert 4695
+insert 1616
+decreaseKey 293 7457
+getMin
+decreaseKey 3667 6314
+decreaseKey 4029 9792
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4476 6008
+insert 2261
+decreaseKey 1484 5743
+getMin
+getMin
+decreaseKey 7483 8137
+insert 6372
+getMin
+decreaseKey 7459 5989
+insert 2299
+insert 595
+extractMin
+getMin
+decreaseKey 4473 3968
+decreaseKey 1501 4801
+decreaseKey 4899 9131
+getMin
+insert 8970
+decreaseKey 4418 8750
+extractMin
+getMin
+decreaseKey 1832 8237
+decreaseKey 854 8121
+insert 2685
+extractMin
+getMin
+decreaseKey 4365 5109
+getMin
+getMin
+insert 8810
+insert 1913
+insert 7469
+insert 2529
+decreaseKey 5418 8819
+insert 8141
+extractMin
+getMin
+getMin
+decreaseKey 6858 7791
+decreaseKey 3124 4591
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2892 7563
+extractMin
+getMin
+insert 916
+decreaseKey 6626 7295
+insert 2076
+getMin
+decreaseKey 2469 9947
+getMin
+decreaseKey 7927 459
+getMin
+insert 6192
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4328
+getMin
+decreaseKey 1904 8423
+getMin
+insert 9456
+insert 3161
+decreaseKey 3011 6943
+decreaseKey 6285 4411
+insert 2915
+getMin
+decreaseKey 3563 2747
+insert 1496
+getMin
+getMin
+getMin
+getMin
+decreaseKey 651 1145
+decreaseKey 738 4934
+extractMin
+getMin
+insert 1396
+decreaseKey 2297 4540
+getMin
+getMin
+decreaseKey 174 889
+insert 6854
+insert 5765
+insert 8865
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 6517
+insert 270
+insert 3576
+insert 4454
+getMin
+decreaseKey 6462 387
+insert 985
+getMin
+decreaseKey 334 4626
+insert 4261
+decreaseKey 764 1333
+extractMin
+getMin
+getMin
+decreaseKey 5848 8817
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7569
+extractMin
+getMin
+decreaseKey 2980 7427
+decreaseKey 5071 7672
+getMin
+insert 1065
+getMin
+insert 8077
+decreaseKey 2421 8496
+getMin
+decreaseKey 575 2154
+decreaseKey 6412 2616
+insert 3845
+decreaseKey 3072 4555
+getMin
+insert 4982
+getMin
+extractMin
+getMin
+insert 3419
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 2679 5423
+decreaseKey 6188 6571
+decreaseKey 4729 1319
+getMin
+decreaseKey 3702 5509
+insert 5369
+insert 8497
+insert 4638
+decreaseKey 1140 9990
+insert 3607
+decreaseKey 7559 296
+extractMin
+getMin
+decreaseKey 773 9599
+decreaseKey 5181 906
+insert 146
+decreaseKey 3397 5963
+insert 8031
+insert 4298
+getMin
+decreaseKey 2996 7338
+decreaseKey 4285 3653
+insert 4329
+extractMin
+getMin
+decreaseKey 3723 9557
+decreaseKey 1163 71
+insert 4367
+extractMin
+getMin
+insert 889
+decreaseKey 3988 9365
+extractMin
+getMin
+decreaseKey 3916 5443
+getMin
+getMin
+decreaseKey 2936 6946
+decreaseKey 696 9152
+extractMin
+getMin
+decreaseKey 79 6773
+getMin
+extractMin
+getMin
+getMin
+insert 8219
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1870 7855
+getMin
+decreaseKey 3826 8126
+insert 5357
+getMin
+extractMin
+getMin
+insert 9532
+extractMin
+getMin
+insert 8450
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1671 5742
+extractMin
+getMin
+insert 2116
+getMin
+decreaseKey 3610 7798
+extractMin
+getMin
+getMin
+decreaseKey 4707 4138
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 6584
+getMin
+decreaseKey 4130 1844
+getMin
+extractMin
+getMin
+getMin
+insert 7914
+extractMin
+getMin
+decreaseKey 6707 5771
+getMin
+getMin
+insert 8535
+insert 5159
+decreaseKey 4762 3260
+decreaseKey 1212 5561
+getMin
+decreaseKey 3736 9083
+getMin
+decreaseKey 4186 3593
+getMin
+insert 5415
+decreaseKey 3550 8917
+extractMin
+getMin
+insert 6572
+insert 7409
+insert 4623
+getMin
+decreaseKey 2467 4104
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 5498 9617
+extractMin
+getMin
+decreaseKey 5749 9313
+extractMin
+getMin
+decreaseKey 2215 8472
+decreaseKey 5717 1344
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 4772 1719
+extractMin
+getMin
+decreaseKey 1340 2278
+decreaseKey 2446 730
+getMin
+decreaseKey 6764 1049
+decreaseKey 5009 2394
+decreaseKey 6211 5197
+extractMin
+getMin
+extractMin
+getMin
+insert 7471
+extractMin
+getMin
+insert 4423
+getMin
+insert 3927
+insert 7685
+insert 4592
+decreaseKey 7646 1211
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 8767
+extractMin
+getMin
+decreaseKey 2311 2877
+decreaseKey 6035 8282
+decreaseKey 358 339
+decreaseKey 4996 3359
+insert 9116
+insert 1583
+insert 7593
+extractMin
+getMin
+getMin
+insert 472
+insert 9427
+decreaseKey 780 8252
+getMin
+getMin
+decreaseKey 1944 3745
+extractMin
+getMin
+decreaseKey 764 4127
+insert 2576
+insert 9616
+insert 7943
+extractMin
+getMin
+decreaseKey 294 4130
+getMin
+extractMin
+getMin
+decreaseKey 5956 6289
+insert 6225
+insert 2955
+insert 7382
+decreaseKey 4002 7151
+decreaseKey 483 8213
+getMin
+insert 1624
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2338 1493
+getMin
+extractMin
+getMin
+decreaseKey 7955 6338
+decreaseKey 4654 9157
+decreaseKey 6348 9966
+insert 1167
+getMin
+insert 5230
+extractMin
+getMin
+getMin
+getMin
+getMin
+getMin
+insert 3076
+insert 5560
+getMin
+decreaseKey 1550 4314
+extractMin
+getMin
+decreaseKey 5074 9580
+decreaseKey 7552 8575
+insert 3240
+insert 109
+extractMin
+getMin
+decreaseKey 7688 9590
+insert 3853
+decreaseKey 7526 411
+getMin
+decreaseKey 7111 4882
+extractMin
+getMin
+decreaseKey 5664 249
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1358 8968
+decreaseKey 6079 1344
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 734
+insert 8191
+insert 6892
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 7370
+getMin
+extractMin
+getMin
+insert 8067
+decreaseKey 5877 4148
+getMin
+decreaseKey 4707 4018
+getMin
+extractMin
+getMin
+insert 5365
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 6282 9236
+getMin
+decreaseKey 4762 1218
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 1445
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1413 1399
+getMin
+insert 4532
+insert 6039
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 7487 1559
+decreaseKey 6404 5251
+extractMin
+getMin
+decreaseKey 7569 7128
+insert 8246
+getMin
+insert 3183
+extractMin
+getMin
+insert 6146
+getMin
+getMin
+decreaseKey 1826 8619
+extractMin
+getMin
+insert 1883
+insert 8686
+extractMin
+getMin
+decreaseKey 7225 2664
+extractMin
+getMin
+insert 7641
+decreaseKey 5000 779
+insert 6220
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 7780
+extractMin
+getMin
+getMin
+decreaseKey 1212 6522
+getMin
+getMin
+getMin
+getMin
+insert 2771
+decreaseKey 889 9117
+getMin
+decreaseKey 4571 5649
+decreaseKey 907 2085
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2976 8385
+extractMin
+getMin
+insert 490
+insert 4048
+getMin
+getMin
+getMin
+insert 8343
+getMin
+decreaseKey 7907 6762
+decreaseKey 2948 5354
+getMin
+extractMin
+getMin
+insert 1997
+insert 2803
+decreaseKey 7261 6983
+getMin
+getMin
+decreaseKey 7278 4440
+getMin
+getMin
+getMin
+decreaseKey 6731 7338
+insert 8976
+insert 2743
+insert 3142
+extractMin
+getMin
+insert 378
+decreaseKey 1146 5576
+extractMin
+getMin
+decreaseKey 170 972
+extractMin
+getMin
+insert 8810
+insert 4876
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1480
+decreaseKey 5393 9780
+getMin
+extractMin
+getMin
+insert 8543
+extractMin
+getMin
+decreaseKey 253 3718
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 3795 1750
+insert 4188
+extractMin
+getMin
+getMin
+insert 6214
+insert 6156
+getMin
+extractMin
+getMin
+insert 8600
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 5735 6264
+extractMin
+getMin
+insert 4316
+insert 2903
+extractMin
+getMin
+insert 5371
+decreaseKey 3114 4531
+getMin
+decreaseKey 4074 9950
+getMin
+insert 6240
+insert 7389
+extractMin
+getMin
+decreaseKey 7430 7941
+insert 646
+insert 9639
+insert 5066
+decreaseKey 8252 1816
+extractMin
+getMin
+extractMin
+getMin
+insert 3131
+decreaseKey 4064 8140
+decreaseKey 3500 3247
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 7745 7373
+decreaseKey 1387 638
+insert 6023
+insert 4463
+decreaseKey 5434 7091
+getMin
+decreaseKey 4654 9449
+getMin
+decreaseKey 5876 2459
+insert 3715
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 4262
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 3065
+extractMin
+getMin
+decreaseKey 6602 8962
+extractMin
+getMin
+insert 8602
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4270 477
+insert 7838
+insert 3626
+decreaseKey 1152 3860
+getMin
+insert 83
+extractMin
+getMin
+decreaseKey 7686 9712
+getMin
+getMin
+extractMin
+getMin
+insert 2154
+insert 9925
+insert 8146
+getMin
+insert 8371
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 4321
+getMin
+getMin
+decreaseKey 4306 5325
+getMin
+getMin
+insert 9090
+getMin
+insert 6036
+getMin
+decreaseKey 3345 8312
+extractMin
+getMin
+decreaseKey 5126 5863
+extractMin
+getMin
+getMin
+decreaseKey 3453 1131
+insert 119
+decreaseKey 457 5068
+extractMin
+getMin
+insert 1052
+getMin
+decreaseKey 5003 2391
+extractMin
+getMin
+getMin
+getMin
+insert 9094
+insert 7854
+extractMin
+getMin
+getMin
+decreaseKey 4057 4513
+getMin
+decreaseKey 183 9721
+insert 1731
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 4893 9545
+decreaseKey 4723 3899
+extractMin
+getMin
+insert 345
+extractMin
+getMin
+insert 5224
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 6101 1461
+extractMin
+getMin
+decreaseKey 3671 2332
+getMin
+extractMin
+getMin
+getMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 8467 741
+insert 9549
+insert 6912
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 111
+extractMin
+getMin
+decreaseKey 8387 8431
+extractMin
+getMin
+extractMin
+getMin
+insert 1902
+extractMin
+getMin
+decreaseKey 2039 3146
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1031 4691
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 7347 1762
+insert 7373
+insert 8637
+extractMin
+getMin
+insert 561
+decreaseKey 2045 7107
+getMin
+insert 9287
+getMin
+insert 1746
+extractMin
+getMin
+decreaseKey 6501 7425
+insert 2469
+getMin
+decreaseKey 904 6724
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 8643
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 7358
+insert 5110
+insert 9604
+insert 9721
+decreaseKey 6562 3330
+insert 8568
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 3443
+decreaseKey 3894 4199
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 2961 3482
+getMin
+getMin
+getMin
+decreaseKey 7038 2677
+insert 1618
+extractMin
+getMin
+insert 2139
+insert 4092
+decreaseKey 457 8936
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 4520
+decreaseKey 924 8462
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 868 4480
+insert 2111
+insert 9084
+extractMin
+getMin
+extractMin
+getMin
+insert 4115
+insert 3840
+insert 3809
+insert 2349
+insert 5563
+extractMin
+getMin
+decreaseKey 2147 2428
+insert 3297
+getMin
+decreaseKey 7758 3970
+getMin
+decreaseKey 7625 3856
+insert 8022
+insert 3932
+extractMin
+getMin
+decreaseKey 4907 6581
+getMin
+extractMin
+getMin
+insert 4814
+insert 7776
+getMin
+insert 1790
+decreaseKey 6620 7559
+decreaseKey 2660 6144
+getMin
+insert 8054
+insert 4015
+extractMin
+getMin
+insert 4587
+extractMin
+getMin
+extractMin
+getMin
+insert 2494
+extractMin
+getMin
+insert 955
+extractMin
+getMin
+getMin
+decreaseKey 1152 4917
+extractMin
+getMin
+getMin
+decreaseKey 8089 3055
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 6123
+insert 131
+insert 7577
+extractMin
+getMin
+decreaseKey 6592 2289
+extractMin
+getMin
+decreaseKey 1808 557
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 2712
+insert 3843
+insert 1295
+insert 3942
+insert 9184
+decreaseKey 7662 40
+decreaseKey 392 4148
+extractMin
+getMin
+getMin
+insert 826
+decreaseKey 4238 2731
+insert 1654
+insert 7772
+insert 3890
+decreaseKey 5677 9859
+insert 5020
+insert 3295
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 9447
+extractMin
+getMin
+decreaseKey 6811 1526
+decreaseKey 7404 2768
+decreaseKey 5074 8326
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3818 683
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 7875 5092
+getMin
+getMin
+decreaseKey 7245 5224
+decreaseKey 3918 9049
+decreaseKey 8241 5660
+getMin
+decreaseKey 5840 6997
+decreaseKey 5404 349
+extractMin
+getMin
+decreaseKey 2619 7166
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 1458
+decreaseKey 5163 8675
+extractMin
+getMin
+extractMin
+getMin
+insert 7528
+extractMin
+getMin
+getMin
+insert 2752
+extractMin
+getMin
+decreaseKey 7126 5856
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 6973
+decreaseKey 5269 9527
+getMin
+decreaseKey 8386 4524
+getMin
+getMin
+decreaseKey 2707 9678
+insert 2101
+insert 2494
+decreaseKey 3921 588
+getMin
+decreaseKey 7365 8575
+insert 5605
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+insert 1897
+extractMin
+getMin
+insert 9156
+getMin
+decreaseKey 7452 9120
+decreaseKey 6217 5047
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 1806 4392
+extractMin
+getMin
+insert 6479
+decreaseKey 7344 6126
+decreaseKey 7793 2289
+insert 1648
+decreaseKey 8389 685
+getMin
+decreaseKey 2014 3701
+decreaseKey 1037 9455
+insert 2444
+getMin
+getMin
+insert 1638
+insert 6190
+decreaseKey 8058 1673
+getMin
+extractMin
+getMin
+insert 9952
+extractMin
+getMin
+insert 7771
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 7459 2918
+getMin
+getMin
+decreaseKey 828 8882
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 3881
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 1515 2426
+decreaseKey 8669 5665
+decreaseKey 3035 2913
+insert 2299
+decreaseKey 5929 1958
+getMin
+insert 8286
+decreaseKey 5942 5449
+decreaseKey 7601 2003
+insert 5959
+getMin
+extractMin
+getMin
+insert 8774
+getMin
+decreaseKey 315 4059
+decreaseKey 337 3107
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 7106 3116
+decreaseKey 8105 7674
+extractMin
+getMin
+decreaseKey 5651 3634
+insert 2705
+getMin
+decreaseKey 1059 7569
+insert 6305
+getMin
+getMin
+insert 3326
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 292 209
+decreaseKey 6101 6568
+insert 1381
+getMin
+insert 3622
+getMin
+extractMin
+getMin
+decreaseKey 8105 2724
+decreaseKey 5730 964
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 918
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 8793 1453
+insert 1563
+getMin
+getMin
+decreaseKey 2056 2624
+extractMin
+getMin
+insert 9827
+getMin
+insert 3264
+decreaseKey 8221 5363
+decreaseKey 5958 4881
+getMin
+extractMin
+getMin
+insert 8578
+insert 9005
+decreaseKey 3852 9959
+insert 6988
+decreaseKey 4006 3579
+getMin
+getMin
+extractMin
+getMin
+insert 5289
+insert 6698
+extractMin
+getMin
+decreaseKey 5844 2444
+insert 2170
+decreaseKey 6698 9431
+decreaseKey 1523 6149
+extractMin
+getMin
+insert 84
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 9048
+getMin
+insert 4965
+getMin
+insert 9744
+getMin
+insert 8203
+extractMin
+getMin
+getMin
+getMin
+insert 539
+extractMin
+getMin
+extractMin
+getMin
+insert 6833
+getMin
+extractMin
+getMin
+insert 8452
+extractMin
+getMin
+decreaseKey 1932 1214
+extractMin
+getMin
+insert 50
+getMin
+getMin
+decreaseKey 6563 3323
+extractMin
+getMin
+getMin
+insert 72
+extractMin
+getMin
+getMin
+decreaseKey 7406 2212
+decreaseKey 1844 5229
+extractMin
+getMin
+decreaseKey 2062 3597
+decreaseKey 7599 6485
+decreaseKey 7851 7339
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 9363
+decreaseKey 4796 7783
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 1048
+extractMin
+getMin
+insert 6033
+insert 3310
+extractMin
+getMin
+insert 3007
+getMin
+getMin
+insert 3922
+decreaseKey 7955 3973
+insert 5763
+insert 1128
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 3992
+insert 2339
+extractMin
+getMin
+insert 5411
+insert 2224
+extractMin
+getMin
+insert 1392
+insert 8664
+extractMin
+getMin
+insert 7637
+extractMin
+getMin
+insert 4341
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7506
+extractMin
+getMin
+insert 1973
+extractMin
+getMin
+insert 6181
+insert 6844
+decreaseKey 7790 7623
+decreaseKey 8449 9511
+decreaseKey 2770 1010
+getMin
+extractMin
+getMin
+insert 9893
+extractMin
+getMin
+decreaseKey 1240 8104
+getMin
+decreaseKey 2820 5681
+insert 9123
+getMin
+getMin
+extractMin
+getMin
+insert 2746
+insert 5179
+getMin
+decreaseKey 7263 4512
+decreaseKey 6346 6748
+getMin
+extractMin
+getMin
+insert 8985
+decreaseKey 49 469
+decreaseKey 1098 9790
+insert 727
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3429 4635
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 5762
+insert 8173
+insert 3301
+decreaseKey 6776 6672
+decreaseKey 4953 1365
+extractMin
+getMin
+insert 7543
+insert 7998
+getMin
+decreaseKey 8475 7522
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 6752 1551
+insert 1189
+decreaseKey 8119 2756
+getMin
+getMin
+decreaseKey 1333 8668
+insert 6292
+getMin
+insert 6953
+getMin
+insert 4515
+decreaseKey 7984 164
+extractMin
+getMin
+insert 582
+getMin
+decreaseKey 3485 456
+extractMin
+getMin
+insert 9760
+getMin
+extractMin
+getMin
+decreaseKey 1450 480
+decreaseKey 4883 6488
+insert 2833
+extractMin
+getMin
+getMin
+insert 2697
+insert 9797
+extractMin
+getMin
+decreaseKey 812 1230
+decreaseKey 4745 5174
+getMin
+insert 5065
+decreaseKey 7397 8585
+extractMin
+getMin
+extractMin
+getMin
+insert 7713
+getMin
+insert 8746
+insert 6661
+insert 1631
+insert 1399
+getMin
+extractMin
+getMin
+getMin
+insert 825
+getMin
+insert 363
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1198
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4349
+extractMin
+getMin
+extractMin
+getMin
+insert 5087
+insert 9519
+extractMin
+getMin
+getMin
+insert 3552
+getMin
+insert 915
+decreaseKey 5926 7220
+getMin
+extractMin
+getMin
+insert 5739
+decreaseKey 7483 4186
+getMin
+getMin
+getMin
+insert 684
+getMin
+decreaseKey 8287 2887
+insert 5546
+decreaseKey 6081 1302
+decreaseKey 401 4313
+extractMin
+getMin
+extractMin
+getMin
+insert 2217
+getMin
+insert 191
+extractMin
+getMin
+decreaseKey 7947 8459
+decreaseKey 3065 8522
+extractMin
+getMin
+extractMin
+getMin
+insert 4641
+decreaseKey 8929 4919
+decreaseKey 6514 181
+decreaseKey 3393 4841
+decreaseKey 2269 3393
+insert 3825
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 8172 9331
+getMin
+decreaseKey 2079 2895
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 6123
+decreaseKey 71 4459
+extractMin
+getMin
+getMin
+decreaseKey 1281 7234
+insert 4141
+decreaseKey 2625 9398
+decreaseKey 83 788
+getMin
+decreaseKey 6789 8877
+getMin
+extractMin
+getMin
+getMin
+insert 8578
+extractMin
+getMin
+decreaseKey 9076 2535
+insert 2189
+insert 7722
+extractMin
+getMin
+insert 8066
+getMin
+decreaseKey 1836 1867
+decreaseKey 81 7284
+getMin
+decreaseKey 4802 6247
+insert 5881
+extractMin
+getMin
+getMin
+insert 875
+insert 1107
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 220 2647
+insert 8606
+decreaseKey 7896 9092
+decreaseKey 855 448
+extractMin
+getMin
+decreaseKey 843 9579
+extractMin
+getMin
+decreaseKey 6090 3601
+decreaseKey 9054 9497
+insert 4548
+decreaseKey 1027 5206
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4356 2718
+decreaseKey 243 8753
+insert 2029
+extractMin
+getMin
+decreaseKey 8790 8605
+decreaseKey 4479 4193
+decreaseKey 7459 282
+getMin
+insert 4909
+decreaseKey 4075 3821
+getMin
+getMin
+extractMin
+getMin
+insert 9074
+getMin
+insert 5220
+extractMin
+getMin
+insert 5996
+insert 3504
+getMin
+insert 1876
+decreaseKey 5861 1258
+extractMin
+getMin
+decreaseKey 3236 7740
+getMin
+decreaseKey 3635 8816
+extractMin
+getMin
+getMin
+getMin
+insert 4758
+getMin
+extractMin
+getMin
+decreaseKey 1484 3092
+getMin
+insert 2626
+decreaseKey 5917 1638
+getMin
+insert 958
+insert 4113
+extractMin
+getMin
+decreaseKey 661 8524
+extractMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 310 4372
+insert 3003
+extractMin
+getMin
+insert 3086
+decreaseKey 6731 9166
+decreaseKey 5681 3977
+decreaseKey 4015 2055
+insert 766
+insert 569
+decreaseKey 1975 1439
+extractMin
+getMin
+getMin
+decreaseKey 8848 9679
+getMin
+decreaseKey 1963 3978
+decreaseKey 7874 6841
+extractMin
+getMin
+extractMin
+getMin
+insert 7068
+extractMin
+getMin
+decreaseKey 1501 5205
+insert 1577
+decreaseKey 4384 6965
+getMin
+extractMin
+getMin
+insert 1579
+insert 7369
+extractMin
+getMin
+decreaseKey 3243 8419
+insert 8351
+getMin
+insert 2233
+insert 9697
+decreaseKey 8942 48
+extractMin
+getMin
+getMin
+insert 5572
+extractMin
+getMin
+insert 4012
+extractMin
+getMin
+decreaseKey 3856 1270
+decreaseKey 7721 6271
+getMin
+extractMin
+getMin
+decreaseKey 799 9414
+decreaseKey 2466 5156
+insert 5742
+insert 8839
+insert 3337
+getMin
+insert 8711
+getMin
+insert 7093
+getMin
+insert 8502
+extractMin
+getMin
+decreaseKey 1769 5507
+getMin
+insert 6640
+decreaseKey 4570 7960
+insert 9550
+decreaseKey 6622 1051
+decreaseKey 7705 8789
+decreaseKey 3376 54
+getMin
+getMin
+decreaseKey 7947 1056
+decreaseKey 52 2132
+insert 4115
+decreaseKey 7721 9164
+getMin
+getMin
+decreaseKey 6526 3423
+extractMin
+getMin
+insert 7782
+insert 3195
+extractMin
+getMin
+decreaseKey 4187 9903
+getMin
+decreaseKey 5759 5178
+extractMin
+getMin
+decreaseKey 1767 6294
+extractMin
+getMin
+decreaseKey 5007 4626
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 3660 32
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 2080
+decreaseKey 2977 2391
+insert 3902
+insert 9347
+decreaseKey 63 2240
+decreaseKey 5377 3037
+extractMin
+getMin
+decreaseKey 7781 5067
+decreaseKey 6597 4001
+getMin
+getMin
+insert 4019
+extractMin
+getMin
+getMin
+decreaseKey 226 617
+decreaseKey 1576 943
+decreaseKey 9134 6788
+getMin
+decreaseKey 9183 6370
+extractMin
+getMin
+getMin
+getMin
+insert 3377
+extractMin
+getMin
+insert 2566
+getMin
+decreaseKey 3453 7289
+decreaseKey 769 9342
+getMin
+getMin
+extractMin
+getMin
+insert 3755
+decreaseKey 208 6013
+getMin
+extractMin
+getMin
+decreaseKey 310 1927
+getMin
+getMin
+insert 5444
+getMin
+insert 3829
+getMin
+extractMin
+getMin
+getMin
+insert 3458
+getMin
+insert 5833
+decreaseKey 5508 6581
+decreaseKey 6873 1750
+decreaseKey 4074 5274
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 8328
+getMin
+getMin
+decreaseKey 285 9100
+decreaseKey 5085 6288
+extractMin
+getMin
+getMin
+insert 1987
+decreaseKey 5814 4480
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 6068 3766
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 2887
+insert 1830
+decreaseKey 4504 844
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2289 4200
+insert 9361
+getMin
+extractMin
+getMin
+getMin
+getMin
+insert 9257
+decreaseKey 6588 7897
+decreaseKey 6355 4440
+getMin
+decreaseKey 5523 1474
+extractMin
+getMin
+insert 7602
+insert 2781
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 4240
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1282 2074
+insert 5486
+insert 1486
+decreaseKey 829 7226
+extractMin
+getMin
+insert 4282
+insert 7233
+decreaseKey 1667 1557
+insert 7203
+insert 5522
+getMin
+extractMin
+getMin
+getMin
+insert 83
+extractMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 5302
+decreaseKey 7060 4172
+decreaseKey 6588 8083
+getMin
+insert 5277
+getMin
+decreaseKey 1413 9391
+getMin
+decreaseKey 7978 5172
+getMin
+insert 4344
+decreaseKey 2758 9367
+extractMin
+getMin
+decreaseKey 6730 8815
+insert 6346
+decreaseKey 2800 4748
+insert 5585
+decreaseKey 396 6560
+insert 2449
+getMin
+insert 5848
+decreaseKey 8646 7734
+extractMin
+getMin
+insert 5062
+insert 5415
+insert 3336
+extractMin
+getMin
+getMin
+decreaseKey 5638 9806
+extractMin
+getMin
+getMin
+insert 5228
+getMin
+insert 9766
+insert 4011
+extractMin
+getMin
+getMin
+insert 3751
+extractMin
+getMin
+getMin
+decreaseKey 4395 3204
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 3423
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 4359 8457
+getMin
+decreaseKey 5000 9027
+decreaseKey 236 1184
+decreaseKey 3582 7470
+extractMin
+getMin
+decreaseKey 722 5197
+decreaseKey 1211 3465
+extractMin
+getMin
+decreaseKey 2686 7239
+getMin
+extractMin
+getMin
+insert 8106
+decreaseKey 9021 2402
+insert 7662
+insert 8771
+getMin
+decreaseKey 4945 5312
+insert 4994
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 1982
+decreaseKey 7959 3125
+decreaseKey 6689 6843
+getMin
+getMin
+getMin
+getMin
+decreaseKey 1169 4961
+getMin
+decreaseKey 7045 7803
+getMin
+insert 8220
+getMin
+extractMin
+getMin
+decreaseKey 9448 5310
+extractMin
+getMin
+getMin
+getMin
+insert 8046
+getMin
+getMin
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 7277
+getMin
+insert 6236
+extractMin
+getMin
+getMin
+decreaseKey 1060 1259
+decreaseKey 4524 3019
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 2460 5889
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1974
+decreaseKey 2619 1930
+extractMin
+getMin
+insert 3099
+decreaseKey 4073 8804
+getMin
+extractMin
+getMin
+getMin
+insert 3603
+decreaseKey 5404 5510
+extractMin
+getMin
+decreaseKey 3871 9883
+insert 8335
+decreaseKey 3468 8227
+getMin
+insert 2320
+insert 9727
+insert 1825
+decreaseKey 3991 9281
+decreaseKey 4108 8817
+decreaseKey 748 102
+getMin
+insert 8215
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 4670 4247
+getMin
+getMin
+extractMin
+getMin
+insert 7404
+getMin
+insert 1203
+insert 7439
+getMin
+getMin
+extractMin
+getMin
+insert 3265
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 7984 7508
+decreaseKey 8183 3778
+getMin
+decreaseKey 4450 9775
+insert 8347
+decreaseKey 705 8016
+getMin
+getMin
+getMin
+insert 8165
+getMin
+decreaseKey 3403 7266
+decreaseKey 4385 7922
+insert 7103
+insert 441
+extractMin
+getMin
+insert 7563
+decreaseKey 7484 2698
+decreaseKey 1584 5667
+decreaseKey 5712 4981
+insert 1809
+getMin
+decreaseKey 3866 1596
+getMin
+extractMin
+getMin
+insert 2690
+extractMin
+getMin
+insert 3186
+decreaseKey 5657 4086
+getMin
+extractMin
+getMin
+insert 9878
+insert 6871
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4395 3499
+getMin
+insert 1852
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 1788
+extractMin
+getMin
+insert 6122
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1740 1366
+insert 6359
+extractMin
+getMin
+insert 224
+getMin
+extractMin
+getMin
+decreaseKey 4601 2337
+getMin
+insert 4248
+insert 6216
+decreaseKey 7415 3639
+extractMin
+getMin
+insert 6028
+decreaseKey 7376 90
+getMin
+insert 5502
+extractMin
+getMin
+decreaseKey 396 123
+insert 1081
+insert 3259
+getMin
+extractMin
+getMin
+insert 5854
+getMin
+insert 741
+insert 3083
+insert 2952
+getMin
+insert 5355
+extractMin
+getMin
+decreaseKey 4803 1298
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+decreaseKey 6555 9025
+insert 6693
+extractMin
+getMin
+getMin
+decreaseKey 7705 9996
+extractMin
+getMin
+insert 8820
+getMin
+extractMin
+getMin
+insert 5444
+extractMin
+getMin
+decreaseKey 6392 8674
+insert 6470
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 2948 4036
+insert 6863
+getMin
+decreaseKey 6563 7742
+decreaseKey 2853 1774
+extractMin
+getMin
+getMin
+decreaseKey 79 6928
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 5432 9549
+decreaseKey 6496 3203
+getMin
+decreaseKey 4193 1366
+decreaseKey 2163 9960
+insert 4234
+decreaseKey 7451 4630
+insert 298
+insert 5682
+getMin
+insert 7145
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+insert 8456
+insert 8643
+decreaseKey 9615 6333
+decreaseKey 4746 3921
+insert 9507
+decreaseKey 5753 4092
+decreaseKey 8833 2931
+decreaseKey 2075 1754
+insert 4593
+insert 3373
+extractMin
+getMin
+decreaseKey 1981 807
+extractMin
+getMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 4960 9020
+extractMin
+getMin
+insert 3733
+decreaseKey 8185 4110
+extractMin
+getMin
+decreaseKey 2736 3630
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 340 6953
+getMin
+getMin
+decreaseKey 5098 3667
+decreaseKey 7861 9239
+insert 2978
+decreaseKey 4470 8271
+decreaseKey 9590 1150
+insert 7982
+extractMin
+getMin
+extractMin
+getMin
+insert 5748
+insert 8656
+decreaseKey 3977 6028
+decreaseKey 9286 6436
+extractMin
+getMin
+insert 7967
+insert 4346
+insert 5646
+decreaseKey 9434 8156
+extractMin
+getMin
+getMin
+insert 8132
+decreaseKey 1626 1891
+getMin
+getMin
+decreaseKey 3809 2317
+decreaseKey 7801 3173
+decreaseKey 2853 8903
+extractMin
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 9020 7616
+getMin
+insert 9606
+extractMin
+getMin
+decreaseKey 4008 8446
+insert 1363
+decreaseKey 2448 8166
+extractMin
+getMin
+decreaseKey 6928 9908
+getMin
+insert 6046
+getMin
+extractMin
+getMin
+insert 7041
+decreaseKey 4447 6793
+extractMin
+getMin
+decreaseKey 4339 410
+decreaseKey 7106 588
+insert 6302
+decreaseKey 3760 8162
+decreaseKey 5432 5901
+decreaseKey 4166 4052
+decreaseKey 560 7932
+insert 8390
+extractMin
+getMin
+insert 311
+insert 8882
+insert 2770
+getMin
+insert 9024
+decreaseKey 9497 1175
+getMin
+decreaseKey 7192 6935
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 1376
+decreaseKey 1428 2582
+insert 8934
+getMin
+insert 2676
+decreaseKey 105 5076
+insert 4918
+extractMin
+getMin
+getMin
+insert 7732
+insert 1537
+decreaseKey 8581 4997
+insert 9781
+insert 7060
+getMin
+getMin
+extractMin
+getMin
+insert 8991
+insert 6417
+extractMin
+getMin
+decreaseKey 205 15
+extractMin
+getMin
+getMin
+getMin
+getMin
+decreaseKey 1098 7598
+extractMin
+getMin
+extractMin
+getMin
+getMin
+insert 7006
+insert 9637
+extractMin
+getMin
+decreaseKey 7427 7799
+decreaseKey 6764 674
+extractMin
+getMin
+insert 4564
+extractMin
+getMin
+decreaseKey 9231 7468
+insert 2579
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+insert 7707
+insert 5458
+getMin
+decreaseKey 4819 5531
+insert 360
+insert 444
+insert 2108
+getMin
+decreaseKey 2845 6254
+insert 5036
+decreaseKey 5677 8220
+insert 8576
+extractMin
+getMin
+decreaseKey 4601 8093
+insert 4922
+decreaseKey 4117 2732
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 1246 1552
+getMin
+getMin
+decreaseKey 799 9190
+insert 9192
+decreaseKey 1321 9925
+insert 7075
+extractMin
+getMin
+getMin
+insert 7635
+extractMin
+getMin
+insert 8227
+insert 2021
+insert 972
+getMin
+insert 9335
+insert 3564
+insert 6492
+extractMin
+getMin
+getMin
+decreaseKey 1091 2720
+insert 792
+decreaseKey 4397 199
+extractMin
+getMin
+getMin
+insert 457
+decreaseKey 5269 8434
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 4754 7778
+decreaseKey 7717 9982
+extractMin
+getMin
+insert 1394
+decreaseKey 9099 9859
+getMin
+insert 9222
+getMin
+decreaseKey 3909 8397
+getMin
+getMin
+insert 8692
+decreaseKey 4653 1827
+insert 8747
+getMin
+decreaseKey 7525 5172
+insert 9511
+getMin
+decreaseKey 3965 5557
+getMin
+extractMin
+getMin
+getMin
+decreaseKey 2887 1861
+decreaseKey 9384 2848
+getMin
+decreaseKey 8249 6519
+getMin
+extractMin
+getMin
+decreaseKey 6520 2129
+extractMin
+getMin
+decreaseKey 7013 1320
+decreaseKey 7282 1089
+extractMin
+getMin
+insert 3275
+extractMin
+getMin
+getMin
+extractMin
+getMin
+insert 6256
+extractMin
+getMin
+getMin
+getMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 1497 9167
+decreaseKey 1037 4282
+getMin
+decreaseKey 4029 4716
+decreaseKey 3950 4841
+insert 8251
+insert 291
+getMin
+insert 6408
+getMin
+insert 6394
+insert 3953
+getMin
+insert 3715
+getMin
+insert 299
+insert 5468
+decreaseKey 4075 8078
+getMin
+insert 5639
+insert 5996
+insert 10
+getMin
+insert 9802
+extractMin
+getMin
+insert 9079
+getMin
+insert 4783
+extractMin
+getMin
+extractMin
+getMin
+decreaseKey 9231 6654
+getMin
+getMin
+insert 1082
+insert 6279
+insert 511
+insert 8206
+extractMin
+getMin
+extractMin
+getMin
+insert 2817
+decreaseKey 5037 3572
+extractMin
+getMin
+insert 7202
+decreaseKey 5387 129
+decreaseKey 6605 1303
+insert 2730
+insert 9452
+insert 2298
+insert 4994
+getMin
+insert 6575
+decreaseKey 4029 4021
+extractMin
+getMin
+insert 2817
+getMin
+extractMin
+getMin
+extractMin
+getMin
+getMin
+getMin
+decreaseKey 8612 9845
+insert 4267
+insert 4320
+decreaseKey 2553 6168
+decreaseKey 2366 7225
+decreaseKey 9968 7805
+insert 1338
+extractMin
+getMin
+insert 6050
+insert 4910
+decreaseKey 4411 8041
+extractMin
+getMin
+extractMin
+getMin
+insert 9884
+extractMin
+getMin
+decreaseKey 5071 3444
+decreaseKey 7116 4796
+getMin
